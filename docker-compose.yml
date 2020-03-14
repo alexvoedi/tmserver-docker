@@ -6,6 +6,6 @@ services:
     container_name: trackmania
     build: .
     network_mode:
-      - host
+      - 'host'
     volumes:
       - .:/app
