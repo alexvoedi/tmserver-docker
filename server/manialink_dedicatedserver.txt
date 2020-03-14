@@ -1,0 +1,31 @@
+
+Sample SendDisplayManialinkPage() :
+
+<manialinks>
+	<manialink posx="" posy ="" id="">
+		....
+	</manialink>
+	<manialink posx="" posy ="" id="">
+		....
+	</manialink>
+	<custom_ui>
+		<notice visible="true"/>
+		<challenge_info visible="true"/>
+		<chat visible="true"/>
+		<checkpoint_list visible="true"/>
+		<round_scores visible="true"/>
+		<scoretable visible="true"/>
+		<global visible="true"/>
+	</custom_ui>
+</manialinks>
+
+
+when a new Manialink page is received:
+previously displayed <manialink> with the same id as one in the new page are replaced.
+previously displayed <manialink> without an id are deleted
+previously displayed <manialink> with an id are kept.
+a new empty <manialink> with an id means delete the previously displayed <manialink> with this id.
+
+<custom_ui> stays unchanged if not specified.
+if no pages are displayed, the <custom_ui> returns to the default "all visibles".
+

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+	<gameinfos>
+		<game_mode>1</game_mode>
+		<chat_time>10000</chat_time>
+		<finishtimeout>0</finishtimeout>
+		<allwarmupduration>0</allwarmupduration>
+		<disablerespawn>0</disablerespawn>
+		<forceshowallopponents>0</forceshowallopponents>
+		<rounds_pointslimit>30</rounds_pointslimit>
+		<rounds_usenewrules>1</rounds_usenewrules>
+		<rounds_forcedlaps>0</rounds_forcedlaps>
+		<rounds_pointslimitnewrules>5</rounds_pointslimitnewrules>
+		<team_pointslimit>50</team_pointslimit>
+		<team_maxpoints>6</team_maxpoints>
+		<team_usenewrules>1</team_usenewrules>
+		<team_pointslimitnewrules>7</team_pointslimitnewrules>
+		<timeattack_limit>480000</timeattack_limit>
+		<timeattack_synchstartperiod>0</timeattack_synchstartperiod>
+		<laps_nblaps>5</laps_nblaps>
+		<laps_timelimit>0</laps_timelimit>
+		<cup_pointslimit>100</cup_pointslimit>
+		<cup_roundsperchallenge>5</cup_roundsperchallenge>
+		<cup_nbwinners>3</cup_nbwinners>
+		<cup_warmupduration>2</cup_warmupduration>
+	</gameinfos>
+
+	<filter>
+		<random_map_order>1</random_map_order>
+	</filter>
+
+	<hotseat>
+		<game_mode>0</game_mode>
+		<time_limit>300000</time_limit>
+		<rounds_count>5</rounds_count>
+	</hotseat>
+
+	<filter>
+		<is_lan>1</is_lan>
+		<is_internet>1</is_internet>
+		<is_solo>0</is_solo>
+		<is_hotseat>0</is_hotseat>
+		<sort_index>1000</sort_index>
+		<random_map_order>1</random_map_order>
+		<force_default_gamemode>0</force_default_gamemode>
+	</filter>
+
+	<startindex>7</startindex>
+	<challenge>
+		<file>Custom\Horror Cup II.Challenge.Gbx</file>
+		<ident>r0sIZCYU1RGzxgdXriqpI8KO8G6</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 6.Challenge.Gbx</file>
+		<ident>xVtAj7t4fgJAENhnTUmErtlMmNg</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup I.Challenge.Gbx</file>
+		<ident>ziAvmY3iBquRLsCKNoAUzUM7U97</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup VII.Challenge.Gbx</file>
+		<ident>f2W9yRUVNoMEiU5XJNuLUS60B22</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WSC 4.Challenge.Gbx</file>
+		<ident>RQXxLjhbTyJ6yTvgbVl1OEAUMTf</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup III.Challenge.Gbx</file>
+		<ident>yB4pXETkuWxcqEYF3oserq0_lE3</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Hihihi.Challenge.Gbx</file>
+		<ident>wd0x5M2BkqUrCAS4K78ljFQz8pk</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup V.Challenge.Gbx</file>
+		<ident>1vtg572ZuWvBpPTphIZuJ1pVbBi</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smarte Sache!.Challenge.Gbx</file>
+		<ident>Czi3bbjJyRbBbN6ud8EMErrR3P2</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Bla bla bla.Challenge.Gbx</file>
+		<ident>3v8o42k3wElzsMlylMjIr8Y0zxa</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup V.Challenge.Gbx</file>
+		<ident>DZik1DgM038Wco5Q11DHMqXEy7</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup I.Challenge.Gbx</file>
+		<ident>QrwDa6z8TZtOdzhlpZ9YLJRDYdi</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander_Cup_III.Challenge.Gbx</file>
+		<ident>Tudl7nK80viQ8PXyXllNNzXDKq4</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup I.Challenge.Gbx</file>
+		<ident>jQ2Ae1S_P5F1RlH5zX7Y9GY8T2j</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XVI.Challenge.Gbx</file>
+		<ident>yXb1cRfyh1vWCdDtzvCwza8igDm</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup II.Challenge.Gbx</file>
+		<ident>CnyjuabkCxtwb88sfItWY5tiaS</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 7.Challenge.Gbx</file>
+		<ident>hfIpAiDxqbGjsQraKR_OtYkXY21</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 5.Challenge.Gbx</file>
+		<ident>qZec9cQRG1PeL_yGInunkg4Cn47</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup VI.Challenge.Gbx</file>
+		<ident>lWp3lYPEkMLXSSJSAsv4HZSEiF1</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander Cup VI.Challenge.Gbx</file>
+		<ident>LtAP47Rg6XK5gkphljQUQEFQfi</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup VI.Challenge.Gbx</file>
+		<ident>aVT68fUiYJkOmZCscvs0gi65u23</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XIII.Challenge.Gbx</file>
+		<ident>tWehn_dmPfqiopBXScrWtmgL14b</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XI.Challenge.Gbx</file>
+		<ident>6VLKz8nntXv7E98JYFsHKEcqCoj</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WSC 1.Challenge.Gbx</file>
+		<ident>kz571DeWGOjp6J3t2cCe_dTzCs1</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 4.Challenge.Gbx</file>
+		<ident>NGIp8Dv0G7Ucrnjk_xbir1jtZ0e</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup VIII.Challenge.Gbx</file>
+		<ident>3kyg1HvstOMmtqzeKzw9nMwNm1c</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WaterJump.Challenge.Gbx</file>
+		<ident>nicRphyxYmaklnwctYlPNtIYUhj</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Wintercup I.Challenge.Gbx</file>
+		<ident>Ojy_cPn7HS9xz36sJDqiRvFuYGi</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XII.Challenge.Gbx</file>
+		<ident>rLmZskmuLmNcTj7JVo0L4mroWs7</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander Cup V.Challenge.Gbx</file>
+		<ident>A0AfxbplQa0j_ukmkeVsQqbaVHj</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XV.Challenge.Gbx</file>
+		<ident>2R2J2nLfk1X5GlEv7pQ3Bms8JY7</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup II.Challenge.Gbx</file>
+		<ident>BLM5wy5GcA9KTzvAhEc_xYrvoN8</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WSC 3.Challenge.Gbx</file>
+		<ident>NL3XXFoWKaA0t1Jb7gbJrgrNIT2</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\___!_!_!_.Challenge.Gbx</file>
+		<ident>2ZedLG_hX1hFjb3fmCQqHcRWS94</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup IV.Challenge.Gbx</file>
+		<ident>STIZa7AdLB3lcrwm_IcWGLKXTza</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander Cup IV.Challenge.Gbx</file>
+		<ident>Ui8DmhNcuaLyufi64GR8x1Cvkek</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XIV.Challenge.Gbx</file>
+		<ident>xmlMGBbJH0nW0CQliHikuw98mgd</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XVII.Challenge.Gbx</file>
+		<ident>1Z6MQE1BuPtYJZqW5H8n93naIHc</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander Cup I.Challenge.Gbx</file>
+		<ident>ncdzxYnZKykDqyTzgIz_yzX6Fb8</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup III.Challenge.Gbx</file>
+		<ident>ZxYrnBkpzqAQm_X6VCRt5Tj3xZm</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 3.Challenge.Gbx</file>
+		<ident>2JbJtP7jrEfrmvJa1CgTclllMY7</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart_Cup_X.Challenge.Gbx</file>
+		<ident>LzJfGO_0xr4GBFyjJpBzwG95Cnl</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Commander Cup II.Challenge.Gbx</file>
+		<ident>XiW0zEFjqz5QvIpku8paqiu0g1k</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WSC 2.Challenge.Gbx</file>
+		<ident>sT7x97snTqwwCwA_DQ2RU5WgWU8</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XX.Challenge.Gbx</file>
+		<ident>PIPFzZIqr6UjKqUknXD1N5cT9pb</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\WSC 5.Challenge.Gbx</file>
+		<ident>kvIWnVkNPHovpFTX4IBUwwARHY3</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup III.Challenge.Gbx</file>
+		<ident>T9QLv1qKrcfA2x74tV7CaYfWOOi</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup IV.Challenge.Gbx</file>
+		<ident>oZVpRviAyo6mSaCni8oxGNk6Nuh</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Formel Trackmania.Challenge.Gbx</file>
+		<ident>5l286o_N7rRhy7_93u_ZzumdWwj</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Mix me.Challenge.Gbx</file>
+		<ident>OfLbTzFSH8pciq9yOfFKX2tciQ</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup V.Challenge.Gbx</file>
+		<ident>vM2hPM3gOkRSkUzVj8v59jTGtwj</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup VI.Challenge.Gbx</file>
+		<ident>uNmweM_F66Snd6p7wVBR9gP2gaa</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 2.Challenge.Gbx</file>
+		<ident>ndSvwbvGWdmXO0gwWYZXm0Hi0g3</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup VII.Challenge.Gbx</file>
+		<ident>_bfb2LENOy2PGS8JXYJpjxmGVM1</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Kartoffel Cup IV.Challenge.Gbx</file>
+		<ident>A_6mYnoMdeZE4rlazuSwI4K7RI7</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Horror Cup VIII.Challenge.Gbx</file>
+		<ident>A2C0unbk1p44q89yj8xTpYEJZ05</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XVIII.Challenge.Gbx</file>
+		<ident>63k9zldLMEX5DmpBQRNOZ2rAho0</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Race 1.Challenge.Gbx</file>
+		<ident>FrkQevmC_yoxFBjWOUBev21i2G4</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup IX.Challenge.Gbx</file>
+		<ident>jn58Z2H44HpqAVXpMGFl9484j5b</ident>
+	</challenge>
+	<challenge>
+		<file>Custom\Smart Cup XIX.Challenge.Gbx</file>
+		<ident>g7XmauxaFcrXy_Vka2L29XHzs4d</ident>
+	</challenge>
+</playlist>
