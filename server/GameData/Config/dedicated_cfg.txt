@@ -4,15 +4,15 @@
 	<authorization_levels>
 		<level>
 			<name>SuperAdmin</name>
-			<password>usbTMN2</password>
+			<password>test</password>
 		</level>
 		<level>
 			<name>Admin</name>
-			<password>usbTMF</password>
+			<password>test</password>
 		</level>
 		<level>
 			<name>User</name>
-			<password>usbTMF</password>
+			<password>test</password>
 		</level>
 	</authorization_levels>
 
