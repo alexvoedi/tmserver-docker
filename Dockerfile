@@ -6,6 +6,9 @@ WORKDIR /opt/tmserver
 
 COPY server /opt/tmserver
 
+RUN chmod +x /opt/tmserver/RunTrackmaniaServer.sh
+RUN chmod +x /opt/tmserver/TrackmaniaServer
+
 EXPOSE 5000
 EXPOSE 2350
 EXPOSE 3450
