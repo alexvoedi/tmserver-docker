@@ -5,9 +5,7 @@ services:
     image: trackmania
     container_name: trackmania
     build: .
+    network_mode:
+      - host
     volumes:
       - .:/app
-    ports:
-      - 5000-5010:5000-5010
-      - 2350-2360:2350-2360
-      - 3450-3460:3450-3460
