@@ -6,9 +6,8 @@ WORKDIR /opt/tmserver
 
 COPY server /opt/tmserver
 
-EXPOSE 5000/tcp
-EXPOSE 2350/tcp
-EXPOSE 2350/udp
-EXPOSE 3450/tcp
+EXPOSE 5000
+EXPOSE 2350
+EXPOSE 3450
 
 CMD ["/opt/tmserver/RunTrackmaniaServer.sh"]
