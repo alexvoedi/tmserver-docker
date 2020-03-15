@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<success>Données mises à jour</success>
+		<err1>Edition impossible, admin inconnu</err1>
+		<err2>Admin invalide</err2>
+		<err3>Edition du compte invité impossible</err3>
+		<settings>Paramètres</settings>
+		<username>Nom utilisateur</username>
+		<password>Mot de passe</password>
+		<tmacc>Compte TM</tmacc>
+		<language>Langue</language>
+		<style>Style</style>
+		<nocode>Enlever Code TM</nocode>
+	</plugin>
+</translation>

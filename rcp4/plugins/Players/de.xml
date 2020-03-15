@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<players>Spieler</players>
+		<nick>Nick</nick>
+		<spec>Spec.</spec>
+		<official>Offiziell</official>
+		<rank>Ranking</rank>
+		<pb>PB</pb>
+		<score>Wertung</score>
+		<laps>Runden</laps>
+		<ladder>Ladderwertung</ladder>
+		<spectator>Zuschauer</spectator>
+		<playing>spielt</playing>
+		<inofficial>inoffiziell</inofficial>
+		<specs>Zuschauer</specs>
+		<noplayers>keine Spieler verfügbar</noplayers>
+		<warn>Warnen</warn>
+		<warnmsg>$s$F00This is an administrative warning. Whatever you wrote is against our server's policy. Not respecting other players, or using offensive language might result in a $F00kick, or ban $z$88F$sthe next time.$z$sThe server administrators.</warnmsg>
+		<kick>Kick</kick>
+		<add>Hinzufügen</add>
+		<rem>Entfernen</rem>
+		<blue>Blau</blue>
+		<red>Rot</red>
+		<usersel>Benutzerauswahl</usersel>
+		<player>Spieler</player>
+		<options>Optionen</options>
+		<forcescores0>normal</forcescores0>
+		<forcescores1>silent</forcescores1>
+		<forcespectatortarget>Kameratyp</forcespectatortarget>
+		<camtargetn1>vorheriger Status</camtargetn1>
+		<camtarget0>Replay</camtarget0>
+		<camtarget1>Folgen</camtarget1>
+		<camtarget2>Frei</camtarget2>
+		<status>Status</status>
+		<server1>Gameserver</server1>
+		<server2>Relayserver</server2>
+	</plugin>
+</translation>

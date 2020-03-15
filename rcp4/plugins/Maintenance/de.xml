@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<admins>Admins</admins>
+		<addadmin>Admin hinzufügen</addadmin>
+		<adminedit>Admin ändern</adminedit>
+		<saveerr>Element nicht gefunden, speichern nicht möglich</saveerr>
+		<editerr>Element nicht gefunden, ändern nicht möglich</editerr>
+		<existserr>Element existiert bereits</existserr>
+		<adminservers>Admin auf folgenden Servern</adminservers>
+		<active>Aktiv</active>
+		<username>Benutzername</username>
+		<password>Passwort</password>
+		<communitycode>CommunityCode</communitycode>
+		<passwordi>Um das Passwort nicht zu ändern, dieses Feld leer lassen</passwordi>
+		<tmacc>TM-Account</tmacc>
+		<tmacci>Der TM-Account wird zur Anmeldung in Aseco / remoteCP[Live] genutzt</tmacci>
+		<language>Sprache</language>
+		<style>Style</style>
+		<assigned>Zugewiesen</assigned>
+		<active>Aktiv</active>
+		<addsuccess>Daten erfolgreich geändert</addsuccess>
+		<editsuccess>Daten erfolgreich geändert</editsuccess>
+		<delsuccess>Daten erfolgreich gelöscht</delsuccess>
+		<nocode>TMCode entfernen</nocode>
+		<servers>Servers</servers>
+		<addserver>Server hinzufügen</addserver>
+		<serveredit>Server ändern</serveredit>
+		<servername>Name</servername>
+		<serverlogin>Login</serverlogin>
+		<connection>Verbindung</connection>
+		<account>Account</account>
+		<enabled>Aktiv</enabled>
+		<dsn>DSN</dsn>
+		<host>Host</host>
+		<port>Port</port>
+		<path>Pfad</path>
+		<ftp>FTP</ftp>
+		<sql>SQL</sql>
+		<settingset>Settingset</settingset>
+		<filepath>Filepath</filepath>
+		<groups>Gruppen</groups>
+		<groupperm>Admin Zugriffsrechte</groupperm>
+		<groupadd>Gruppe hinzufügen</groupadd>
+		<groupedit>Gruppe ändern</groupedit>
+		<groupname>Name</groupname>
+		<group>Gruppe</group>
+		<lists>Listen</lists>
+		<guestlist>Gästeliste</guestlist>
+		<blacklist>Blackliste</blacklist>
+	</plugin>
+</translation>

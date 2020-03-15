@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<general>General</general>
+		<mode>Mode</mode>
+		<mode0>Rounds</mode0>
+		<mode1>TimeAttack</mode1>
+		<mode2>Team</mode2>
+		<mode3>Laps</mode3>
+		<mode4>Stunts</mode4>
+		<mode5>Cup</mode5>
+		<chattime>Chat Time</chattime>
+		<finishtimeout>Finish timeout</finishtimeout>
+		<rounds>Rounds Mode</rounds>
+		<points>Points</points>
+		<newrules>Use new rules</newrules>
+		<roundlaps>Force round laps</roundlaps>
+		<timeattack>Time Attack Mode</timeattack>
+		<timelimit>Timelimit</timelimit>
+		<syncstart>Sync start period</syncstart>
+		<maxpoints>Max Points</maxpoints>
+		<nolaps>Number of laps</nolaps>
+		<team>Team Mode</team>
+		<pts>Pts.</pts>
+		<sec>Sec.</sec>
+		<laps>Laps</laps>
+		<rnd>Rounds</rnd>
+		<cup>Cup Mode</cup>
+		<warmupduration>WarmUpduration</warmupduration>
+		<disablerespawn>Disable Respawn</disablerespawn>
+		<forceshowallopponents>Force vehicledisplay</forceshowallopponents>
+		<pointslimitnewrules>Points new rules</pointslimitnewrules>
+		<cuproundsperchallenge>Rounds/Challenge</cuproundsperchallenge>
+		<cupnbwinners>CupNbWinners</cupnbwinners>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The GameSettings plugin allows you to change all gamemode related settings. Mostly all options will need a challenge restart or mapchange to take in effect. Its a good practice to allways restart the current challenge after changing this settings, even if a option don't need that.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				Select a GameMode with the drop-down and setup your settings. If you change the GameMode the gamemode related section of the plugin will change on the fly.
+			</item>
+		</category>
+		<category title="General settings">
+			<item title="Mode">GameMode as follows: Rounds, TimeAtttack, Team, Laps, Stunts or Cup</item>
+			<item title="Chat Time">The time players can chat at roundend until the next map begins to load</item>
+			<item title="Finish timeout">Time the players has time to reach the finish after the first player reached the finish</item>
+			<item title="WarmUpduration">Number of warmup rounds</item>
+			<item title="Disable Respawn">Disables the respawn at start/checkpoint</item>
+			<item title="Force vehicledisplay">Force the display of players even if player has disabled it on the client. Values: 0=disable, 1=show all, other value=minimum number of opponents</item>
+		</category>
+		<category title="Rounds mode settings">
+			<item title="Points">Points to win the map</item>
+			<item title="Force round laps">Number of laps on a multilap challenge</item>
+			<item title="Use new rules">information currently not available</item>
+			<item title="Points new rules">Points to win the map with "use new rules" enabled</item>
+		</category>
+		<category title="TimeAttack mode settings">
+			<item title="Timelimit">Time until the map ends</item>
+			<item title="Sync start period">Time to wait before the round starts</item>
+		</category>
+		<category title="Team mode settings">
+			<item title="Points">Points to win the map</item>
+			<item title="Max Points">information currently not available</item>
+			<item title="Use new rules">information currently not available</item>
+			<item title="Points new rules">Points to win the map with "use new rules" enabled</item>
+		</category>
+		<category title="Laps mode settings">
+			<item title="Number of laps">Number of laps until map ends</item>
+			<item title="Timelimit">information currently not available</item>
+		</category>
+		<category title="Cup mode settings">
+			<item title="Points">information currently not available</item>
+			<item title="Rounds/Challenge">information currently not available</item>
+			<item title="CupNbWinners">information currently not available</item>
+			<item title="WarmUpduration">Number of warmup rounds before each map</item>
+		</category>
+	</help>
+</translation>

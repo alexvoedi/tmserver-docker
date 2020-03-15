@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<gcd>Données globales</gcd>
+		<name>Pseudo</name>
+		<name2>Codecouleur</name2>
+		<loginid>Login / Id</loginid>
+		<ip>IP</ip>
+		<rates>Down/Upload rate</rates>
+		<language>Langue</language>
+		<accounttype>Accounttype</accounttype>
+	</plugin>
+</translation>

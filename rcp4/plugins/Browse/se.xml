@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<ftperr1>FTP fel: kan inte logga in med dom lösenuppgiftera</ftperr1>
+		<ftperr2>FTP fel: kan inte nå ftp-servern med giva värdnamn, connection not available</ftperr2>
+		<ftperr3>FTP Error: can\'t change ftp-mode</ftperr3>
+		<uperr1>Uppladda fil är större än vad som är tillåter</uperr1>
+		<uperr2>Uppladdad fil delvis åtkomstbar</uperr2>
+		<uperr3>Uppladdad fil är större än tillåtna klientstorlek</uperr3>
+		<uperr4>Ingen fil uppladdad</uperr4>
+		<uperr5>Ingen fil specificerad i formuläret</uperr5>
+		<uperr6>Uploaded file to big</uperr6>
+		<uptmxerr1>Invalid TM-Exchange Id</uptmxerr1>
+		<upziperr1>Error uploading zip file, unable to extract the zip file</upziperr1>
+		<upziperr2>Error uploading zip file, unknown error</upziperr2>
+		<upziperr3>Error uploading zip file, invalid zip file</upziperr3>
+		<upziperr4>Error uploading zip file, unknown error</upziperr4>
+		<uploaded>Uploaded</uploaded>
+		<sortby>Soretera efter</sortby>
+		<sbname>Namn</sbname>
+		<sbauthor>Upphovsman</sbauthor>
+		<sbsize>Storlek</sbsize>
+		<sbtime>Tid</sbtime>
+		<files>Filer</files>
+		<ftpmode>ftp läge</ftpmode>
+		<locmode>lokalt läge</locmode>
+		<queue>Kö</queue>
+		<emptyq>töm kön</emptyq>
+		<insertfiles>Lägg in i aktuell challangelist</insertfiles>
+		<addfiles>Lägg till i aktuell challengelist</addfiles>
+		<deletefiles>radera filer</deletefiles>
+		<upload>Ladda upp</upload>
+		<dir>Kat</dir>
+		<file>Fil</file>
+		<savems>Spara matchsettings</savems>
+		<loadms>Ladda MatchSettings</loadms>
+		<savess>Save Current Serversettings</savess>
+		<loadss>Load Serversettings</loadss>
+		<appms>BifogaPlaylistFrånMatchSettings</appms>
+		<filename>Filnamn</filename>
+		<folder>Katalog</folder>
+		<nodirs>Inga kataloger hittades</nodirs>
+		<nofiles>Inga filer hittades</nofiles>
+		<readdirerr>Läs kataloger - kan inte öppna katalog: </readdirerr>
+		<deleteerr>Går inte att radera: </deleteerr>
+		<tmxid>TM-Exchange ID</tmxid>
+		<tmxtype>TM-Exchange Type</tmxtype>
+		<uploadtype>Uppladdningstyp</uploadtype>
+		<folderup>Change path upwards</folderup>
+	</plugin>
+</translation>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- amount of coppers a user can win in a lotteryround -->
+	<coppers>40</coppers>
+	<!-- minimum amount of coppers the server account must have, to run the lottery -->
+	<mincoppers>1000</mincoppers>
+	<!-- minimum amount of players the server must have, to run the lottery -->
+	<minplayers>3</minplayers>
+</settings>

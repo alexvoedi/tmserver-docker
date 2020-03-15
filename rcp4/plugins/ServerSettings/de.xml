@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<translation>
+	<plugin>
+		<general>Allgemein</general>
+		<name>Name</name>
+		<comment>Kommentar</comment>
+		<password>Passwort</password>
+		<refereemode>Referee Modus</refereemode>
+		<refereemode0>Top 3 Spieler</refereemode0>
+		<refereemode1>alle Spieler</refereemode1>
+		<autosavevalidationreplays>Speichern Valid.-Replays</autosavevalidationreplays>
+		<hideserver>Server verstecken</hideserver>
+		<hideserver0>keine</hideserver0>
+		<hideserver1>alle</hideserver1>
+		<hideserver2>nur Nations</hideserver2>
+		<usechangingvalidationseed>Wechselnder Valid.-Seed</usechangingvalidationseed>
+		<playerpsw>Spieler</playerpsw>
+		<spectatorpsw>Spectator</spectatorpsw>
+		<refereepsw>Referee</refereepsw>
+		<vehiclequal>Fahrzeug net Qual.</vehiclequal>
+		<vehiclequal0>schnell</vehiclequal0>
+		<vehiclequal1>hoch</vehiclequal1>
+		<download>Challenge Download</download>
+		<replays>Auto. Replayspeicherung</replays>
+		<ladder>Ladder Modus</ladder>
+		<ladder0>Inaktiv</ladder0>
+		<ladder1>Normal</ladder1>
+		<p2p>P2P</p2p>
+		<p2pup>Upload</p2pup>
+		<p2pdown>Download</p2pdown>
+		<maxplayers>Max. Spieler</maxplayers>
+		<maxplayersp>Spieler</maxplayersp>
+		<maxplayerss>Zuschauer</maxplayerss>
+		<callvote>Call Vote</callvote>
+		<callvotet>Zeitüberschreitung</callvotet>
+		<callvoter>Anteil</callvoter>
+		<sec>Sek.</sec>
+		<nameupderr>Fehler beim updaten des Servernamens, Server nicht gefunden</nameupderr>
+		<buddynotification>Freunde Benachrichtigung</buddynotification>
+	</plugin>
+</translation>

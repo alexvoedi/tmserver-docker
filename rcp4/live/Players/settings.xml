@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<messages>
+		<!-- Message for player warning -->
+		<warning>$s$F00This is an administrative warning. Whatever you wrote is against our servers policy. Not respecting other players, or using offensive language might result in a $F00kick, or ban $z$88F$sthe next time.</warning>
+		<!-- Message for player ignore -->
+		<ignore>$s$F00Your account got ignored. Whatever you wrote is against our servers policy. Not respecting other players, or using offensive language might result in a $F00kick, or ban $z$88F$sthe next time.</ignore>
+	</messages>
+</settings>

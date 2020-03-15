@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<all>Skicka till alla</all>
+		<send>skicka</send>
+		<advopt>Användaralternativ</advopt>
+		<warn>Varna</warn>
+		<kick>Kick</kick>
+		<add>Lägg till</add>
+		<rem>Ta bort</rem>
+		<spectator>Observatör</spectator>
+		<usersel>användare valbar</usersel>
+		<player>spelare</player>
+		<reply>Skriv ett meddelande</reply>
+		<msg>Meddelande</msg>
+		<tologin>Mottagare</tologin>
+		<foptions>Filter options</foptions>
+		<fmessages>Messages</fmessages>
+		<fcommands>Commands</fcommands>
+		<newwin>open chat in new window</newwin>
+	</plugin>
+</translation>

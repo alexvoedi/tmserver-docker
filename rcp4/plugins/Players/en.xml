@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<players>players</players>
+		<nick>Nick</nick>
+		<spec>Spec.</spec>
+		<official>Official</official>
+		<rank>Ranking</rank>
+		<pb>PB</pb>
+		<score>Score</score>
+		<laps>Laps</laps>
+		<ladder>Ladderscore</ladder>
+		<spectator>spectator</spectator>
+		<playing>playing</playing>
+		<inofficial>inofficial</inofficial>
+		<specs>Spectators</specs>
+		<noplayers>no players available</noplayers>
+		<warn>Warn</warn>
+		<warnmsg>$s$F00This is an administrative warning. Whatever you wrote is against our server's policy. Not respecting other players, or using offensive language might result in a $F00kick, or ban $z$88F$sthe next time.$z$sThe server administrators.</warnmsg>
+		<kick>Kick</kick>
+		<add>Add</add>
+		<rem>Remove</rem>
+		<blue>Blue</blue>
+		<red>Red</red>
+		<usersel>user selectable</usersel>
+		<player>player</player>
+		<options>Options</options>
+		<forcescores0>normal</forcescores0>
+		<forcescores1>silent</forcescores1>
+		<forcespectatortarget>Cameratype</forcespectatortarget>
+		<camtargetn1>keep previous state</camtargetn1>
+		<camtarget0>Replay</camtarget0>
+		<camtarget1>Follow</camtarget1>
+		<camtarget2>Free</camtarget2>
+		<status>Status</status>
+		<server1>Gameserver</server1>
+		<server2>Relayserver</server2>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Players plugin is the main part for every player-related action. The plugin allows to handle some player settings and much more. It will give admins also a overview about all currently playing players and much more detailed informations.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				General usage of this plugin is pretty easy, just select all players (with the checkbox near its name) you want to perform your selected option and hit the submit-button. You may also select/deselect all players at once with the checkbox in the table-head section.
+			</item>
+		</category>
+		<category title="Options">
+			<item title="Warn">Sends a warning message to a player, that reminds him that he gets close to break the servers rules</item>
+			<item title="Kick">Removes the select player(s) from the server</item>
+			<item title="Banlist - Add">Removes the select players(s) from the server and adds their accountnames to the banlist</item>
+			<item title="Banlist - Remove">Removes the banned player accountname from the banlist</item>
+			<item title="Guestlist - Add">Addes the players accountname to the guestlist, this allows the player to join without password and even if the server is full</item>
+			<item title="Guestlist - Remove">Removes the players accountname from the guestlist</item>
+			<item title="Blacklist - Add">Addes the players accountname to the blacklist, blacklist acts like the banlist but gets stored permanently</item>
+			<item title="Blacklist - Remove">Removes the players accountname from the blacklist</item>
+			<item title="Forcespec. - user select.">If the use was forced into spectatormode, this will allow him to choose the mode himself</item>
+			<item title="Forcespec. - spectator">Force the player(s) into spectator mode. If you select this option a second dropdown field will be available with further options</item>
+			<item title="Forcespec. - player">Force the player(s) into player mode</item>
+			<item title="Forcescores - normal">Overwrites the current scores and sends a message to all players</item>
+			<item title="Forcescores - silent">Overwrites the current scores</item>
+		</category>
+	</help>
+</translation>

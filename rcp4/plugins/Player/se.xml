@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<gcd>Overall Data</gcd>
+		<name>NickName</name>
+		<name2>Colorcode</name2>
+		<loginid>Login / Id</loginid>
+		<ip>IP</ip>
+		<rates>Ner/Uppl. hastighet</rates>
+		<language>Språk</language>
+		<accounttype>Accounttype</accounttype>
+	</plugin>
+</translation>

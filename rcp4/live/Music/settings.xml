@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (1) or disable (0) use global music over forceMusic method -->
+	<!-- this disables the music player panel and plays the same track for everybody -->
+	<!-- forcemusic automatically enables autoopen and autochangetrack -->
+	<forcemusic>0</forcemusic>
+	<!-- enable (1) or disable (0) opening of the music panel, as soon as the player joins the server -->
+	<!-- option only available if forcemusic is disabled -->
+	<autoopen>1</autoopen>
+	<!-- enable (1) or disable (0) automatic switching to the next track on a new challenge -->
+	<!-- option only available if forcemusic is disabled -->
+	<autochangetrack>1</autochangetrack>
+	<!-- define the ogg/mux files to load -->
+	<data>
+		<!--<item>
+			<name>Time</name>
+			<file>http://remotecp.team-hal.de/music/time.ogg</file>
+		</item>
+		<item>
+			<name>Peaking</name>
+			<file>http://remotecp.team-hal.de/music/peaking.ogg</file>
+		</item>-->
+	</data>
+</settings>

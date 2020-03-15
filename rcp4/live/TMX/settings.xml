@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- Path inside /GameData/Tracks/*filepath*/ used for saving tmx tracks -->
+	<tmxpath>tm-exchange</tmxpath>
+	<!-- The needed remoteCP permission level (see your admins.xml) to access the tmxget chatcommand -->
+	<!-- Leave empty to allow everybody to add tracks from tmx -->
+	<tmxgetpermission>editmaps</tmxgetpermission>
+	<ui>
+		<!-- enable (1) or disable (0) the recordsUI panel -->
+		<enabled>1</enabled>
+		<!-- mimimum number of recs displayed in the UI panel -->
+		<minrecdisp>3</minrecdisp>
+		<!-- maximum number of recs displayed in the UI panel -->
+		<maxrecdisp>5</maxrecdisp>
+	</ui>
+</settings>

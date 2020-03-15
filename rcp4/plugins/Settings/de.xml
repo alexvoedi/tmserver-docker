@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<success>Daten erfolgreich gespeichert</success>
+		<err1>Admin nicht gefunden, speichern nicht möglich</err1>
+		<err2>Ungültiger Admin</err2>
+		<err3>Ändern des Gastaccounts nicht möglich</err3>
+		<settings>Einstellungen</settings>
+		<username>Benutzername</username>
+		<password>Passwort</password>
+		<tmacc>TM-Account</tmacc>
+		<language>Sprache</language>
+		<style>Style</style>
+		<nocode>TMCode entfernen</nocode>
+	</plugin>
+</translation>

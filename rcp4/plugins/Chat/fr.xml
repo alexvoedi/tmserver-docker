@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<all>Envoyer à tous</all>
+		<send>Envoyer</send>
+		<advopt>Options utilisateur</advopt>
+		<warn>Avertir</warn>
+		<kick>Kicker</kick>
+		<add>Ajouter</add>
+		<rem>Enlever</rem>
+		<spectator>Spectateur</spectator>
+		<usersel>Choix utilisateur</usersel>
+		<player>Joueur</player>
+		<reply>Ecrire un message</reply>
+		<msg>Message</msg>
+		<tologin>Destinataire</tologin>
+		<foptions>Filter options</foptions>
+		<fmessages>Messages</fmessages>
+		<fcommands>Commands</fcommands>
+		<newwin>open chat in new window</newwin>
+	</plugin>
+</translation>

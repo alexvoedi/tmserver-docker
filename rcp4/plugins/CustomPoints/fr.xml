@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<custom>Customiser</custom>
+		<points>Points</points>
+		<commasep>Séparrer valeurs avec une virgule</commasep>
+		<presets>Valeurs prédéfinies</presets>
+		<preset>Valeurs prédéfinie</preset>
+	</plugin>
+</translation>

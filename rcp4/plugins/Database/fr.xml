@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <options>Options</options>
+    <options2>Opt.</options2>
+    <display>Affichage</display>
+    <challenges>Challenges</challenges>
+    <players>Joueurs</players>
+    <orderby>Trier par</orderby>
+    <obname>Nom</obname>
+    <obauthor>Auteur</obauthor>
+    <obenvironment>Environment</obenvironment>
+    <oblogin>Login</oblogin>
+    <obnickname>Pseudo</obnickname>
+    <obwins>Victoires</obwins>
+    <obtimeplayed>Temps de jeu</obtimeplayed>
+    <otasc>croissant</otasc>
+    <otdesc>décroissant</otdesc>
+    <search>Rechercher</search>
+    <searchby>Rechercher par</searchby>
+    <searchvalue>Info recherchée</searchvalue>
+    <id>ID</id>
+    <name>Nom</name>
+    <author>Auteur</author>
+    <environment>Environment</environment>
+    <trecord>Top Rec.</trecord>
+    <records>Records</records>
+    <login>Login</login>
+    <nickname>Pseudo</nickname>
+    <game>Jeu</game>
+    <update>Mise à jour</update>
+    <wins>Victoires</wins>
+    <timeplayed>Temps de jeu</timeplayed>
+    <challenge>Challenge</challenge>
+    <score>Score</score>
+    <date>Date</date>
+    <edit>Editer</edit>
+    <challengedelok>Challenge (Id: %1$s; Nom: %2$s) effacé</challengedelok>
+    <challengedelerr>Erreur lors de l\'effacement du challenge (Id: %1$s; Nom: %2$s)</challengedelerr>
+    <playerdelok>Joueur (Id: %1$s; Nom: %2$s) effacé</playerdelok>
+    <playerdelerr>Erreur lors de l\'effacement du joueur (Id: %1$s; Nom: %2$s)</playerdelerr>
+    <recorddelok>Record (Id: %1$s; Nom: %2$s) effacé</recorddelok>
+    <recorddelerr>Erreur lors de l\'effacement du record (Id: %1$s; Nom: %2$s)</recorddelerr>
+    <challengesaveok>Challenge (Id: %1$s; Nom: %2$s) sauvegardé</challengesaveok>
+    <challengesaveerr>Erreur lors de la sauvegarde du challenge (Id: %1$s; Nom: %2$s)</challengesaveerr>
+    <playersaveok>Joueur (Id: %1$s; Nom: %2$s) sauvegardé</playersaveok>
+    <playersaveerr>Erreur lors de la sauvegarde du joueur (Id: %1$s; Nom: %2$s)</playersaveerr>
+    <recordsaveok>Record (Id: %1$s) sauvegardé</recordsaveok>
+    <recordsaveerr>Erreur lors de la sauvegarde du record (Id: %1$s)</recordsaveerr>
+  </plugin>
+</translation>

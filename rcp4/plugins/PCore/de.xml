@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <status>Status</status>
+    <bussy>Server beschäftigt...</bussy>
+    <challenge>Challenge</challenge>
+    <players>Spieler</players>
+    <scores>Punkte</scores>
+    <silentmode>Stillermodus</silentmode>
+    <coppers>Coppers</coppers>
+    <connectedto>Verbunden zu</connectedto>
+    <server>Server</server>
+    <version>Version</version>
+    <port>Port</port>
+    <network>Netzwerkdaten</network>
+    <uptime>Server uptime</uptime>
+    <connections>Connections</connections>
+    <ctime>connectiontime</ctime>
+    <recvnetrate>RecvNetRate</recvnetrate>
+    <totalrecvsize>TotalRecvSize</totalrecvsize>
+    <sendnetrate>SendNetRate</sendnetrate>
+    <totalsendingsize>TotalSendingSize</totalsendingsize>
+  </plugin>
+</translation>

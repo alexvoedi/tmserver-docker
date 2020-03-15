@@ -1,0 +1,12 @@
+AddDefaultCharset UTF-8
+DirectoryIndex index.php index.html
+
+<Files ~ "^live\.php">
+Order allow,deny
+Deny from all
+</Files>
+
+<Files ~ "\.(bat|sh|xml)$">
+Order allow,deny
+Deny from all
+</Files>

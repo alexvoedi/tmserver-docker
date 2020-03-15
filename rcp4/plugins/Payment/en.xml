@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<pay>Pay to a player</pay>
+		<acoppers>Available Coppers</acoppers>
+		<player>Player</player>
+		<sel>- select -</sel>
+		<coppers>Coppers</coppers>
+		<info>Information</info>
+		<bill>Send bill to player</bill>
+		<rplayer>Receiving Player</rplayer>
+		<pplayer>Paying Player</pplayer>
+		<serverac>Server Account</serverac>
+		<donate>remoteCP donation</donate>
+		<author>Author</author>
+		<payerr>Invalid pay data, payment not possible</payerr>
+		<billerr>Invalid bill data, sending bill not possible</billerr>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Payment plugin allows you to send coppers or a coppers-bill to a player. You can also donate some coppers to the remoteCP author (thats me :D).
+			</item>
+		</category>
+		<category title="How to... send coppers to a player">
+			<item title="">
+				Just select a player from the drop-down-list and input a numeric value in the "coppers"-field. All input fields are mandatory fields. You cannot send coppers to a player without a information text.
+			</item>
+		</category>
+		<category title="How to... send a bill to a player">
+			<item title="">
+				Just select a receiving player or the serveraccount and a paying player from the drop-down-lists and input a numeric value in the "coppers"-field. All input fields are mandatory fields. You cannot send coppers to a player without a information text. The information text will also shown ingame on the coppers-bill-popup for the paying player.
+			</item>
+		</category>
+		<category title="How to... donate">
+			<item title="">
+				Works like the payment to a player, you just don't need to define the player account because I just added mine into the code of the plugin :D muhahahahaha ... thx! :)
+			</item>
+		</category>
+	</help>
+</translation>

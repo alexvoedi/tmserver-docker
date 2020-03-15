@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<presets>
+	<item name="Trackmania" points="10,6,4,3,2,1" />
+	<item name="ET FET" points="12,10,9,8,7,6,5,4,4,3,3,3,2,2,2,1" />
+	<item name="MotoGP" points="25,20,16,13,11,10,9,8,7,6,5,4,3,2,1" />
+	<item name="MotoGP5" points="30,25,21,18,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1" />
+	<item name="MotoGP10" points="35,30,26,23,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1" />
+	<item name="Formula 1 &lt; 2009" points="10,8,6,5,4,3,2,1" />
+	<item name="Formula 1 &gt; 2009" points="12,9,7,5,4,3,2,1" />
+	<item name="Simple 10" points="10,9,8,7,6,5,4,3,2,1" />
+	<item name="Simple 5" points="5,4,3,2,1" />
+	<item name="hal.ko. Public Fun" points="32,30,28,0,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1" />
+	<item name="hal.ko. Training" points="12,10,8,6,5,4,3,2,1" />
+</presets>

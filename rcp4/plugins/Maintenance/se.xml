@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<admins>Admins</admins>
+		<addadmin>Lägg till admin</addadmin>
+		<saveerr>Kan inte spara, ingen item hittat</saveerr>
+		<editerr>Kan inte spara, ingen item hittat</editerr>
+		<existserr>Item finns redan</existserr>
+		<adminedit>Redigera admin</adminedit>
+		<adminservers>Admins på servern</adminservers>
+		<active>Aktiv</active>
+		<username>Användarnamn</username>
+		<password>Lösenord</password>
+		<communitycode>CommunityCode</communitycode>
+		<passwordi>Lämna tomt om du inte tänker ändra lösenordet</passwordi>
+		<tmacc>TM-acc</tmacc>
+		<tmacci>Skriv in TM-acc för autentisering innifrån Aseco / remoteCP[Live]</tmacci>
+		<language>Språk</language>
+		<style>Stil</style>
+		<assigned>Anvisad</assigned>
+		<active>Aktiv</active>
+		<addsuccess>Data successfully added</addsuccess>
+		<editsuccess>Data redigerad</editsuccess>
+		<delsuccess>Data borttagen</delsuccess>
+		<nocode>ta bort TMCode</nocode>
+		<servers>Servrar</servers>
+		<addserver>Add server</addserver>
+		<serveredit>Server edit</serveredit>
+		<servername>Name</servername>
+		<serverlogin>Login</serverlogin>
+		<connection>Connection</connection>
+		<account>Account</account>
+		<enabled>Enabled</enabled>
+		<dsn>DSN</dsn>
+		<host>Host</host>
+		<port>Port</port>
+		<path>Path</path>
+		<ftp>FTP</ftp>
+		<sql>SQL</sql>
+		<settingset>Settingset</settingset>
+		<filepath>Filepath</filepath>
+		<groups>Groups</groups>
+		<groupperm>Admin permissions</groupperm>
+		<groupadd>Add group</groupadd>
+		<groupedit>Edit group</groupedit>
+		<groupname>Name</groupname>
+		<group>Group</group>
+		<lists>Lists</lists>
+		<guestlist>Guestlist</guestlist>
+		<blacklist>Blacklist</blacklist>
+	</plugin>
+</translation>

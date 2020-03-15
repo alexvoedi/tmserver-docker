@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <pay>An einen Spieler bezahlen</pay>
+    <acoppers>Verfügbare Coppers</acoppers>
+    <player>Spieler</player>
+    <sel>- auswahl -</sel>
+    <coppers>Coppers</coppers>
+    <info>Information</info>
+    <bill>Rechnung an einen Spieler senden</bill>
+    <rplayer>Empfangender Spieler</rplayer>
+    <pplayer>Zahlender Spieler</pplayer>
+    <serverac>Server Account</serverac>
+    <donate>remoteCP donation</donate>
+    <author>Autor</author>
+    <payerr>Ungültige Zahlungsdaten, Zahlung nicht möglich</payerr>
+    <billerr>Ungültige Rechnungsdaten, senden der Rechnung nicht möglich</billerr>
+  </plugin>
+</translation>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (1) or disable (0) plugin -->
+	<enabled>0</enabled>
+	<!-- number of challenges until inactive players get kicked -->
+	<playerkick>2</playerkick>
+	<!-- number of challenges until inactive spectators get kicked -->
+	<speckick>4</speckick>
+	<!-- message that the player will get with the kick -->
+	<message>You have been kicked, because you idled on our server</message>
+</settings>

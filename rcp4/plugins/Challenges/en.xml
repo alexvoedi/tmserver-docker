@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<challenges>challenges</challenges>
+		<nochallenges>no challenges available</nochallenges>
+		<name>Name</name>
+		<author>Author</author>
+		<env>Environment</env>
+		<gtime>Gold Time</gtime>
+		<coppers>Coppers</coppers>
+		<choose>choose next challenge(s)</choose>
+		<del>delete challenge(s)</del>
+		<shuffle>Shuffle challenge(s)</shuffle>
+		<sort>Sort challenge(s)</sort>
+		<options>Options</options>
+		<votings>Votings</votings>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Challenges plugin is the main part for every challenge-related action. The plugin allows to remove challenges or sort your challengelist. It will give admins also a overview about all currently loaded challenges and much more detailed informations.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				General usage of this plugin is pretty easy, just select all challenges (with the checkbox near its name) you want to perform your selected option and hit the submit-button. You may also select/deselect all challenges at once with the checkbox in the table-head section.
+			</item>
+		</category>
+		<category title="Options">
+			<item title="Choose next">Chooses the selected challenge(s) that will be played right after the current challenge</item>
+			<item title="Delete">Removes the select challenge(s) from the challengelist. The currently played challenge can't be removed!</item>
+			<item title="Shuffle">Randomizes the whole challengelist or the partially selected challenges</item>
+			<item title="Sort">Sorts the selected challenge(s) by their numeric value (see input field near every challengename)</item>
+		</category>
+	</help>
+</translation>

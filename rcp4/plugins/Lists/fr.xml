@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <playerban>Bannir Joueur</playerban>
+    <playerignore>Ignorer Joueur</playerignore>
+    <playerguest>Ajouter invité</playerguest>
+    <playerblack>Mettre joueur en Liste noire</playerblack>
+    <login>Login</login>
+    <rem>Enlever</rem>
+    <addguest>Ajouter à la liste des invités</addguest>
+    <addblack>Ajouter à la liste noire</addblack>
+  </plugin>
+</translation>

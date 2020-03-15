@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (true) or disable (false) new admin registrations -->
+	<register>true</register>
+	<!-- default language, used at login and error -->
+	<deflanguage>en</deflanguage>
+	<!-- default style, used at login and error -->
+	<defstyle>default</defstyle>
+
+	<!-- timeout for socket connections -->
+	<timeouts>
+		<!-- in seconds for connections -->
+		<!-- see php manual: fsockopen() -->
+		<connect>5</connect>
+		<!-- in seconds for read / write operations -->
+		<!-- see php manual: stream_set_timeout() -->
+		<readwrite>20</readwrite>
+	</timeouts>
+</settings>

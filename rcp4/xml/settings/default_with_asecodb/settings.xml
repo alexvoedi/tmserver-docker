@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<plugins>
+		<!-- do not move or change the PCore plugin -->
+		<plugin>PCore</plugin>
+		<plugin>Help</plugin>
+
+		<!-- plugins -->
+		<plugin>Overview</plugin>
+		<plugin>Challenges</plugin>
+		<plugin>Players</plugin>
+		<plugin>Browse</plugin>
+		<plugin>Database</plugin>
+		<plugin>Chat</plugin>
+		<plugin>Payment</plugin>
+		<plugin>GameSettings</plugin>
+		<plugin>ServerSettings</plugin>
+		<plugin>Maintenance</plugin>
+		<plugin>Lists</plugin>
+		<plugin>Settings</plugin>
+		<plugin>Update</plugin>
+		<plugin>Mods</plugin>
+		<plugin>Messages</plugin>
+		<plugin>CustomPoints</plugin>
+
+		<!-- external plugins -->
+	</plugins>
+	<colors>
+		<chat>
+			<name>$AA9</name>
+			<info>$9B2</info>
+		</chat>
+	</colors>
+</settings>

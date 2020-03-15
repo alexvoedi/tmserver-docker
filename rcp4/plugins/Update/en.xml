@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <err1>Error reading updatedata</err1>
+    <up2date>up to date</up2date>
+    <update>update available</update>
+    <download>Download</download>
+  </plugin>
+</translation>

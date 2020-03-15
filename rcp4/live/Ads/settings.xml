@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- time in minutes until the plugin shows the next ad -->
+	<reloadtime>10</reloadtime>
+	<!-- define some advertisment messages -->
+	<ads>
+		<item type='chat'>Server running with remoteCP-4 Live</item>
+		<item type='live'>$l[http://www.tmbase.de/]Download remoteCP-4 now!$l</item>
+		<item type='live'>$l[http://www.tmbase.de/]Visit tmbase.de, the home of remoteCP-4!$l</item>
+		<item type='live'>$l[http://www.tmbase.de/V6/live/]View other remoteCP-4 Live servers!$l</item>
+		<item type='live'>$l[http://www.hal-ko.de/site/downloads/show/id_9.html]Boring? Download and enjoy KimOhNO's StreetStyl3 now!$l</item>
+		<item type='live'>$l[http://www.tm-forum.com/viewforum.php?f=125]Read the latest remoteCP-4 discussions on tm-forum.com!$l</item>
+		<item type='chat'>$l[http://www.tm-forum.com/viewtopic.php?f=28&amp;t=19288]Keep your game up to date to prevent issues!$l</item>
+	</ads>
+</settings>

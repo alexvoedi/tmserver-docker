@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<messages>
+		<!-- Message for chatcommand /gg -->
+		<gg>!cm!Good game !hl!%s</gg>
+		<!-- Message for chatcommand /hi -->
+		<hi>!cm!Hello !hl!%s</hi>
+		<!-- Message for chatcommand /bb -->
+		<bb>!cm!Good bye !hl!%s</bb>
+		<!-- Message for chatcommand /gl-->
+		<gl>!cm!Good luck !hl!%s</gl>
+		<!-- Message for chatcommand /hf -->
+		<hf>!cm!Have fun !hl!%s</hf>
+		<!-- Message for chatcommand /glhf -->
+		<glhf>!cm!Good luck and have fun !hl!%s</glhf>
+		<!-- Message for chatcommand /fuck -->
+		<fuck>!cm!$w$b$iFUCK!!!!</fuck>
+	</messages>
+</settings>

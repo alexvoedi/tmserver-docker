@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<success>Data successful updated</success>
+		<err1>Can't edit, admin not found</err1>
+		<err2>Invalid admin</err2>
+		<err3>Editing guestaccount not possible</err3>
+		<settings>Settings</settings>
+		<username>Username</username>
+		<password>Password</password>
+		<tmacc>TM-Account</tmacc>
+		<language>Language</language>
+		<style>Style</style>
+		<nocode>remove TMCode</nocode>
+	</plugin>
+</translation>

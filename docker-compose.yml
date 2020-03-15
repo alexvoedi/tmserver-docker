@@ -5,8 +5,9 @@ services:
     image: trackmania
     container_name: trackmania
     build: .
-    network_mode: 'host'
+    # network_mode: 'host'
     ports:
       - 5000:5000
       - 2350:2350
       - 3450:3450
+      - 8080:80

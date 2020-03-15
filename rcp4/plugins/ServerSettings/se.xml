@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<translation>
+	<plugin>
+		<general>Övergripande</general>
+		<name>Namn</name>
+		<comment>Kommentar</comment>
+		<refereemode>Referee Mode</refereemode>
+		<refereemode0>Top 3 players</refereemode0>
+		<refereemode1>all players</refereemode1>
+		<autosavevalidationreplays>AutoSaveValidationReplays</autosavevalidationreplays>
+		<hideserver>Göm Server</hideserver>
+		<hideserver0>none</hideserver0>
+		<hideserver1>all</hideserver1>
+		<hideserver2>Endast Nations</hideserver2>
+		<usechangingvalidationseed>UseChangingValidationSeed</usechangingvalidationseed>
+		<password>Lösenord</password>
+		<playerpsw>Spelare</playerpsw>
+		<spectatorpsw>Spectator</spectatorpsw>
+		<refereepsw>Referee</refereepsw>
+		<vehiclequal>Fordonskvalitet.</vehiclequal>
+		<vehiclequal0>snabb</vehiclequal0>
+		<vehiclequal1>hög</vehiclequal1>
+		<download>Challenge nedladdningsbar</download>
+		<replays>Autospara Replayer</replays>
+		<ladder>Ladder Mode</ladder>
+		<ladder0>Inaktiv</ladder0>
+		<ladder1>Normal</ladder1>
+		<p2p>P2P</p2p>
+		<p2pup>Uppladdning</p2pup>
+		<p2pdown>Nedladdning</p2pdown>
+		<maxplayers>Max. spelare</maxplayers>
+		<maxplayersp>Spelare</maxplayersp>
+		<maxplayerss>Specc.</maxplayerss>
+		<callvote>Call Vote</callvote>
+		<callvotet>Timeout</callvotet>
+		<callvoter>Ratio</callvoter>
+		<sec>Sec.</sec>
+		<nameupderr>Fel vid uppdatering av servernamn, servern hittades inte.</nameupderr>
+		<buddynotification>BuddyNotification</buddynotification>
+	</plugin>
+</translation>

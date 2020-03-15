@@ -9,10 +9,12 @@ WORKDIR /opt/tmserver
 
 COPY server /opt/tmserver
 COPY xaseco /opt/xaseco
+COPY rcp4 /var/www/html
 
 RUN chmod +x /opt/tmserver/RunTrackmaniaServer.sh
 RUN chmod +x /opt/tmserver/TrackmaniaServer
 
+EXPOSE 80
 EXPOSE 5000
 EXPOSE 2350
 EXPOSE 3450

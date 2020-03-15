@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <err1>Fel vid lösning av uppdateringsdata</err1>
+    <up2date>uppdaterad</up2date>
+    <update>updatering tillgänglig</update>
+    <download>Ladda ner</download>
+  </plugin>
+</translation>

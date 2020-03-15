@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <options>Options</options>
+    <options2>Opt.</options2>
+    <display>Display</display>
+    <challenges>Challenges</challenges>
+    <players>Players</players>
+    <orderby>Order by</orderby>
+    <obname>Name</obname>
+    <obauthor>Author</obauthor>
+    <obenvironment>Environment</obenvironment>
+    <oblogin>Login</oblogin>
+    <obnickname>NickName</obnickname>
+    <obwins>Wins</obwins>
+    <obtimeplayed>TimePlayed</obtimeplayed>
+    <otasc>ascending</otasc>
+    <otdesc>descending</otdesc>
+    <search>Search</search>
+    <searchby>Search by</searchby>
+    <searchvalue>Searchvalue</searchvalue>
+    <id>ID</id>
+    <name>Name</name>
+    <author>Author</author>
+    <environment>Environment</environment>
+    <trecord>Top Rec.</trecord>
+    <records>Records</records>
+    <login>Login</login>
+    <nickname>NickName</nickname>
+    <game>Game</game>
+    <update>UpdatedAt</update>
+    <wins>wins</wins>
+    <timeplayed>TimePlayed</timeplayed>
+    <challenge>Challenge</challenge>
+    <score>Score</score>
+    <date>Date</date>
+    <edit>Edit</edit>
+    <challengedelok>Challenge (Id: %1$s; Name: %2$s) successfully deleted</challengedelok>
+    <challengedelerr>Error deleting challenge (Id: %1$s; Name: %2$s)</challengedelerr>
+    <playerdelok>Player (Id: %1$s; Name: %2$s) successfully deleted</playerdelok>
+    <playerdelerr>Error deleting player (Id: %1$s; Name: %2$s)</playerdelerr>
+    <recorddelok>Record (Id: %1$s; Name: %2$s) successfully deleted</recorddelok>
+    <recorddelerr>Error deleting record (Id: %1$s; Name: %2$s)</recorddelerr>
+    <challengesaveok>Challenge (Id: %1$s; Name: %2$s) successfully saved</challengesaveok>
+    <challengesaveerr>Error saveing challenge (Id: %1$s; Name: %2$s)</challengesaveerr>
+    <playersaveok>Player (Id: %1$s; Name: %2$s) successfully saved</playersaveok>
+    <playersaveerr>Error saveing player (Id: %1$s; Name: %2$s)</playersaveerr>
+    <recordsaveok>Record (Id: %1$s) successfully saved</recordsaveok>
+    <recordsaveerr>Error saveing record (Id: %1$s)</recordsaveerr>
+  </plugin>
+</translation>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<custom>Customize</custom>
+		<points>Points</points>
+		<commasep>Seperate values by comma</commasep>
+		<presets>Presets</presets>
+		<preset>Preset</preset>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The CustomPoints plugin allows you to define a custom points rule for the "Rounds"-GameMode. You can select a preset of predefined preset or set your own custom points rule.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				To define a custom point rule, just insert the point values for each ranking place from the first to the last, seperated by comma. To finnally save that custom-rule, hit the submit-button.
+			</item>
+		</category>
+	</help>
+</translation>

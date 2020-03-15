@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<database>
+	<challenges table="rcp_challenges">
+		<Id>Id</Id>
+		<Uid>Uid</Uid>
+		<Name>Name</Name>
+		<Author>Author</Author>
+		<Environment>Environment</Environment>
+		<BestCheckPoints>BestCheckPoints</BestCheckPoints>
+	</challenges>
+	<cptransactions table="rcp_cptransactions">
+		<Id>Id</Id>
+		<Login>Login</Login>
+		<Reason>Reason</Reason>
+		<Billid>Billid</Billid>
+		<Coppers>Coppers</Coppers>
+		<Date>Date</Date>
+	</cptransactions>
+	<ladder table="rcp_ladder">
+		<PlayerId>PlayerId</PlayerId>
+		<TeamId>TeamId</TeamId>
+		<Score>Score</Score>
+	</ladder>
+	<players table="rcp_players">
+		<Id>Id</Id>
+		<Login>Login</Login>
+		<Game>Game</Game>
+		<NickName>NickName</NickName>
+		<Nation>Nation</Nation>
+		<UpdatedAt>UpdatedAt</UpdatedAt>
+		<Wins>Wins</Wins>
+		<TimePlayed>TimePlayed</TimePlayed>
+		<TeamId>TeamId</TeamId>
+	</players>
+	<records table="rcp_records">
+		<Id>Id</Id>
+		<ChallengeId>ChallengeId</ChallengeId>
+		<PlayerId>PlayerId</PlayerId>
+		<Score>Score</Score>
+		<Date>Date</Date>
+	</records>
+	<teams table="rcp_teams">
+		<Id>Id</Id>
+		<Name>Name</Name>
+		<LeaderId>LeaderId</LeaderId>
+		<JoinCode>JoinCode</JoinCode>
+	</teams>
+	<votes table="rcp_votes">
+		<Id>id</Id>
+		<PlayerId>PlayerId</PlayerId>
+		<ChallengeId>ChallengeId</ChallengeId>
+		<Score>Score</Score>
+	</votes>
+</database>

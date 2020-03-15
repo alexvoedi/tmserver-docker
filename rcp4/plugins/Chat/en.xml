@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<all>send to all</all>
+		<send>send</send>
+		<advopt>User options</advopt>
+		<warn>Warn</warn>
+		<kick>Kick</kick>
+		<add>Add</add>
+		<rem>Remove</rem>
+		<spectator>spectator</spectator>
+		<usersel>user selectable</usersel>
+		<player>player</player>
+		<reply>Write a message</reply>
+		<msg>Message</msg>
+		<tologin>Recipient</tologin>
+		<foptions>Filter options</foptions>
+		<fmessages>Messages</fmessages>
+		<fcommands>Commands</fcommands>
+		<newwin>open chat in new window</newwin>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Chat plugin is the main communication center in remoteCP. The plugin allows you to chat with players on the server even if youre currently not playing on that server. The plugin will use your remoteCP login name as chatname, so keep in mind that player might not recognize, who you are because you don't have that awesome(!) 1337-nickname.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				Just type a message into the "Message" input-field and hit enter (or click the send-button). You may select a recipient for your message.
+			</item>
+		</category>
+		<category title="Filters">
+			<item title="">The filters will remove some message from the chatlisting. Filters can only changed by admin with "globalmaintenance"-permission.</item>
+			<item title="Messages">Will remove all special messages like buddy-infos, message of ingame controllers like ASECO or remoteCP-Live or all messages of the remoteCP messages plugin</item>
+			<item title="Commands">Will remove all chat-commands with the beginning slash, for example /severlogin</item>
+		</category>
+	</help>
+</translation>

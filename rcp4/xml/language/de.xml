@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translation>
+  <core>
+    <title>remoteCP :: Dedicated Server Remote Control Panel</title>
+    <help>Hilfe</help>
+    <go>Los!</go>
+    <submit>Absenden</submit>
+    <close>schließen</close>
+    <restart>neustarten</restart>
+    <next>nächste</next>
+    <last>letzte</last>
+    <forceend>Rundenende erzwingen</forceend>
+    <banlist>BanListe</banlist>
+    <ignorelist>IgnorierListe</ignorelist>
+    <guestlist>GästeListe</guestlist>
+    <blacklist>SchwarzeListe</blacklist>
+    <settings>Einstellungen</settings>
+    <update>Update</update>
+    <logout>abmelden</logout>
+    <whoisonline>Wer ist online</whoisonline>
+    <noscript>Dein Browser unterstüzt kein JavaScript, dies ist jedoch erforderlich um das remoteCP zu nutzen!</noscript>
+    <sure>Bist du sicher?</sure>
+    <edit>ändern</edit>
+    <delete>löschen</delete>
+    <manialinkhead>remoteCP</manialinkhead>
+    <mysqlerr1>Verbindung zum mysql Server fehlgeschlagen</mysqlerr1>
+    <mysqlerr2>Mysql Datenbank wurde nicht gefunden</mysqlerr2>
+    <pluginerr1>Plugin Verzeichnis nicht gefunden</pluginerr1>
+    <pluginerr2>Plugin nicht definiert</pluginerr2>
+    <deflanguage>Sprachdatei nicht gefunden, es wird versucht die Standart Sprache zu verwenden</deflanguage>
+    <permerr1>Authentifizierungsfehler, nicht eingeloggt</permerr1>
+    <vpermerr1>Keine Zugriffsrechte für dieses plugin</vpermerr1>
+    <vpermerr2>Plugin hat keine Zugriffsrechte</vpermerr2>
+    <accesschanged>Server gewechselt</accesschanged>
+    <accesslogout>Logout erfolgreich</accesslogout>
+    <accessrefresh>aktualisieren</accessrefresh>
+    <accessrelogin>nocheinmal einloggen</accessrelogin>
+    <accesslogin>Login</accesslogin>
+    <accessusername>Benutzername</accessusername>
+    <accesspassword>Passwort</accesspassword>
+    <accessserver>Server</accessserver>
+    <accessnoserver>keine offenen server verfügbar, login nicht möglich</accessnoserver>
+	<accessrefused>Verbindung zum Server nicht möglich, Server nicht erreichbar oder Verbindungsdaten fehlerhaft</accessrefused>
+	<accessrefusedusr>Verbindung zum Server nicht möglich, ungültiger SuperAdmin Accountname</accessrefusedusr>
+	<accessrefusedpsw>Verbindung zum Server nicht möglich, ungültiges SuperAdmin Passwort</accessrefusedpsw>
+	<offlinelogininfo>Serververbindung nicht verfügbar! remoteCP befindet sich aktuell im offline-modus, dies ist kein Fehler!</offlinelogininfo>
+  </core>
+</translation>

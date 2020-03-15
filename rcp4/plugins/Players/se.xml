@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<players>spelare</players>
+		<nick>Nick</nick>
+		<spec>Spec.</spec>
+		<official>Officiell</official>
+		<rank>Rank</rank>
+		<pb>PB</pb>
+		<score>Poäng</score>
+		<laps>Anal varv</laps>
+		<ladder>Ladderpoäng</ladder>
+		<spectator>Spectator</spectator>
+		<playing>spelar</playing>
+		<inofficial>inofficiell</inofficial>
+		<specs>Scpectators</specs>
+		<noplayers>Inga spelare tillgängliga</noplayers>
+		<warn>Varna</warn>
+		<warnmsg>$s$F00This is an administrative warning. Whatever you wrote is against our server's policy. Not respecting other players, or using offensive language might result in a $F00kick, or ban $z$88F$sthe next time.$z$sThe server administrators.</warnmsg>
+		<kick>Kick</kick>
+		<add>Lägg till</add>
+		<rem>Ta bort</rem>
+		<blue>Blå</blue>
+		<red>Röd</red>
+		<usersel>användare valbar</usersel>
+		<player>spelare</player>
+		<options>Options</options>
+		<forcescores0>normal</forcescores0>
+		<forcescores1>silent</forcescores1>
+		<forcespectatortarget>Kameratyp</forcespectatortarget>
+		<camtargetn1>Behåll tidigare</camtargetn1>
+		<camtarget0>Replay</camtarget0>
+		<camtarget1>Följ</camtarget1>
+		<camtarget2>Fri</camtarget2>
+		<status>Status</status>
+		<server1>Gameserver</server1>
+		<server2>Relayserver</server2>
+	</plugin>
+</translation>

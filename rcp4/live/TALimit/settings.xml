@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (1) or disable (0) plugin -->
+	<enabled>0</enabled>
+	<!-- plugin should stay active (1) or inactive (0) in other game modes -->
+	<allgamemodes>0</allgamemodes>
+	<!-- multiplicator for the authortime for example (limitmulti * authortime) -->
+	<limitmulti>7</limitmulti>
+	<!-- maximum limit in minutes -->
+	<limitmax>10</limitmax>
+	<!-- minimum limit in minutes -->
+	<limitmin>3</limitmin>
+</settings>

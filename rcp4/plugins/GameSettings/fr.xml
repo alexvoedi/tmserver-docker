@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<general>Général</general>
+		<mode>Mode</mode>
+		<mode0>Rounds</mode0>
+		<mode1>TimeAttack</mode1>
+		<mode2>Par équipe</mode2>
+		<mode3>Par tours</mode3>
+		<mode4>Stunts</mode4>
+		<mode5>Coupe</mode5>
+		<chattime>Temps de Chat</chattime>
+		<finishtimeout>Finish timeout</finishtimeout>
+		<rounds>Mode Rounds</rounds>
+		<points>Points</points>
+		<newrules>Utiliser nouvelles règles</newrules>
+		<roundlaps>Forcer round laps</roundlaps>
+		<timeattack>Mode Time Attack</timeattack>
+		<timelimit>Limite de temps</timelimit>
+		<syncstart>Période de Synchro de départ</syncstart>
+		<maxpoints>Nombre max de points</maxpoints>
+		<nolaps>Nombres de tours</nolaps>
+		<team>Mode par Equipe</team>
+		<pts>Pts.</pts>
+		<sec>Sec.</sec>
+		<laps>Tours</laps>
+		<rnd>Rounds</rnd>
+		<cup>Mode Coupe</cup>
+		<warmupduration>Durée phase échauffement</warmupduration>
+		<disablerespawn>Désactiver Respawn</disablerespawn>
+		<forceshowallopponents>Forcer affichage des adversaires</forceshowallopponents>
+		<pointslimitnewrules>Points nouvelles règles</pointslimitnewrules>
+		<cuproundsperchallenge>Rounds/Challenge</cuproundsperchallenge>
+		<cupnbwinners>Nombre de vainqueurs mode Coupe</cupnbwinners>
+	</plugin>
+</translation>

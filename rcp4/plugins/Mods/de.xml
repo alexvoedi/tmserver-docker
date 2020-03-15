@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<forcemods>Mods forcieren</forcemods>
+		<forcedmods>Forcierte Mods</forcedmods>
+		<forcemusic>Musik forcieren</forcemusic>
+		<forcedmusic>Forcierte Musik</forcedmusic>
+		<stadium>Stadium</stadium>
+		<island>Island</island>
+		<bay>Bay</bay>
+		<coast>Coast</coast>
+		<speed>Speed</speed>
+		<alpine>Alpine</alpine>
+		<rally>Rally</rally>
+		<song>Titel</song>
+		<none>keines</none>
+		<disableall>Alle deaktivieren</disableall>
+	</plugin>
+</translation>

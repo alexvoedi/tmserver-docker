@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<database>
+	<challenges table="challenges">
+		<Id>Id</Id>
+		<Uid>Uid</Uid>
+		<Name>Name</Name>
+		<Author>Author</Author>
+		<Environment>Environment</Environment>
+		<BestCheckPoints>BestCheckPoints</BestCheckPoints>
+	</challenges>
+	<cptransactions table="cptransactions">
+		<Id>Id</Id>
+		<Login>Login</Login>
+		<Reason>Reason</Reason>
+		<Billid>Billid</Billid>
+		<Coppers>Coppers</Coppers>
+		<Date>Date</Date>
+	</cptransactions>
+	<ladder table="ladder">
+		<PlayerId>PlayerId</PlayerId>
+		<TeamId>TeamId</TeamId>
+		<Score>Score</Score>
+	</ladder>
+	<players table="players">
+		<Id>Id</Id>
+		<Login>Login</Login>
+		<Game>Game</Game>
+		<NickName>NickName</NickName>
+		<Nation>Nation</Nation>
+		<UpdatedAt>UpdatedAt</UpdatedAt>
+		<Wins>Wins</Wins>
+		<TimePlayed>TimePlayed</TimePlayed>
+		<TeamId>TeamId</TeamId>
+	</players>
+	<records table="records">
+		<Id>Id</Id>
+		<ChallengeId>ChallengeId</ChallengeId>
+		<PlayerId>PlayerId</PlayerId>
+		<Score>Score</Score>
+		<Date>Date</Date>
+	</records>
+	<teams table="teams">
+		<Id>Id</Id>
+		<Name>Name</Name>
+		<LeaderId>LeaderId</LeaderId>
+		<JoinCode>JoinCode</JoinCode>
+	</teams>
+	<votes table="rs_karma">
+		<Id>Id</Id>
+		<PlayerId>PlayerId</PlayerId>
+		<ChallengeId>ChallengeId</ChallengeId>
+		<Score>Score</Score>
+	</votes>
+</database>

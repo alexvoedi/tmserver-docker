@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<success>Data uppdaterat</success>
+		<err1>Kan inte redigera admin inte hitat</err1>
+		<err2>Invalid admin</err2>
+		<err3>Redigera gästacc är inte möjligt</err3>	
+		<settings>Inställningar</settings>
+		<username>Användarnamn</username>
+		<password>Lösenord</password>
+		<tmacc>TM-Acc</tmacc>
+		<language>Språk</language>
+		<style>Stil</style>
+		<nocode>ta bord TMCode</nocode>
+	</plugin>
+</translation>

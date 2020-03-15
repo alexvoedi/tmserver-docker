@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<servers>
+	<server>
+		<id>1</id>
+		<login>_TM_LOGIN_</login>
+		<name>_TM_SNAME_</name>
+		<settingset></settingset>			<!-- Pathname without slashes, leave empty for default settings -->
+		<filepath></filepath>				<!-- Pathname without slashes, leave empty for old remoteCP3 style -->
+		<connection>
+			<host>localhost</host>
+			<port>_TM_PORT_</port>
+			<password>_TM_SADMINPW_</password>
+			<communitycode>_TM_CCODE_</communitycode>
+		</connection>
+		<ftp enabled='false'>
+			<host>localhost</host>
+			<port></port>					<!-- leave empty for default port 21 -->
+			<username>username</username>
+			<password>password</password>
+			<path>/GameData/Tracks/</path>
+		</ftp>
+		<sql enabled='false'>
+			<dsn>_DB_DSN_</dsn>
+			<username>_DB_USER_</username>
+			<password>_DB_PASSWORD_</password>
+		</sql>
+		<lists>
+			<guestlist>guestlist.txt</guestlist>
+			<blacklist>blacklist.txt</blacklist>
+		</lists>
+	</server>
+</servers>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <err1>Erreur lors de la lecture des données de m.à.j.</err1>
+    <up2date>à jour</up2date>
+    <update>mise à jour disponible</update>
+    <download>Télécharger</download>
+  </plugin>
+</translation>

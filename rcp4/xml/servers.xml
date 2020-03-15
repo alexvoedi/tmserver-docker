@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+	<server>
+		<id>1</id>
+		<login/>
+		<name>Podog's Powerserver</name>
+		<settingset>default_with_asecodb</settingset>			<!-- Pathname without slashes, leave empty for default settings -->
+		<filepath/>				<!-- Pathname without slashes, leave empty for default filepath -->
+		<connection>
+			<host>127.0.0.1</host>
+			<port>5071</port>
+			<account>SuperAdmin</account>
+			<password>usbTMN2</password>
+			<communitycode>000000</communitycode>
+		</connection>
+		<ftp enabled="false">
+			<host>127.0.0.1</host>
+			<port/>					<!-- leave empty for default port 21 -->
+			<username>username</username>
+			<password>password</password>
+			<path>/GameData/Tracks/</path>
+		</ftp>
+		<sql enabled="true">
+			<dsn>mysql:dbname=usbtmnaseco1;host=127.0.0.1</dsn>
+			<username>usbtmnaseco</username>
+			<password>usbTMN</password>
+		</sql>
+		<lists>
+			<guestlist>guestlist1.txt</guestlist>
+			<blacklist>blacklist1.txt</blacklist>
+		</lists>
+	</server>
+	<server>
+		<id>2</id>
+		<login/>
+		<name>usbTMFserver</name>
+		<settingset>default_with_asecodb</settingset>			<!-- Pathname without slashes, leave empty for default settings -->
+		<filepath/>				<!-- Pathname without slashes, leave empty for default filepath -->
+		<connection>
+			<host>127.0.0.1</host>
+			<port>5072</port>
+			<account>SuperAdmin</account>
+			<password>usbTMN2</password>
+			<communitycode>000000</communitycode>
+		</connection>
+		<ftp enabled="false">
+			<host>127.0.0.1</host>
+			<port/>					<!-- leave empty for default port 21 -->
+			<username>username</username>
+			<password>password</password>
+			<path>/GameData/Tracks/</path>
+		</ftp>
+		<sql enabled="true">
+			<dsn>mysql:dbname=usbtmnaseco2;host=127.0.0.1</dsn>
+			<username>usbtmnaseco</username>
+			<password>usbTMN</password>
+		</sql>
+		<lists>
+			<guestlist>guestlist2.txt</guestlist>
+			<blacklist>blacklist2.txt</blacklist>
+		</lists>
+	</server>
+	<server>
+		<id>3</id>
+		<login/>
+		<name>usbTMFserver</name>
+		<settingset>default_with_asecodb</settingset>			<!-- Pathname without slashes, leave empty for default settings -->
+		<filepath/>				<!-- Pathname without slashes, leave empty for default filepath -->
+		<connection>
+			<host>127.0.0.1</host>
+			<port>5063</port>
+			<account>SuperAdmin</account>
+			<password>usbTMN2</password>
+			<communitycode>000000</communitycode>
+		</connection>
+		<ftp enabled="false">
+			<host>127.0.0.1</host>
+			<port/>					<!-- leave empty for default port 21 -->
+			<username>username</username>
+			<password>password</password>
+			<path>/GameData/Tracks/</path>
+		</ftp>
+		<sql enabled="true">
+			<dsn>mysql:dbname=3tmf_xaseco;host=127.0.0.1</dsn>
+			<username>usbtmnaseco</username>
+			<password>usbTMN</password>
+		</sql>
+		<lists>
+			<guestlist>guestlist3.txt</guestlist>
+			<blacklist>blacklist3.txt</blacklist>
+		</lists>
+	</server>
+	<server>
+		<id>4</id>
+		<login/>
+		<name>usbTMFserver</name>
+		<settingset>default_with_asecodb</settingset>			<!-- Pathname without slashes, leave empty for default settings -->
+		<filepath/>				<!-- Pathname without slashes, leave empty for default filepath -->
+		<connection>
+			<host>127.0.0.1</host>
+			<port>5064</port>
+			<account>SuperAdmin</account>
+			<password>usbTMN2</password>
+			<communitycode>000000</communitycode>
+		</connection>
+		<ftp enabled="false">
+			<host>127.0.0.1</host>
+			<port/>					<!-- leave empty for default port 21 -->
+			<username>username</username>
+			<password>password</password>
+			<path>/GameData/Tracks/</path>
+		</ftp>
+		<sql enabled="true">
+			<dsn>mysql:dbname=4tmf_xaseco;host=127.0.0.1</dsn>
+			<username>usbtmnaseco</username>
+			<password>usbTMN</password>
+		</sql>
+		<lists>
+			<guestlist>guestlist4.txt</guestlist>
+			<blacklist>blacklist4.txt</blacklist>
+		</lists>
+	</server>
+</servers>

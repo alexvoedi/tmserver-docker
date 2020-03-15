@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<jukebox>
+		<!-- enable (1) or disable (0) jukebox feature -->
+		<enabled>1</enabled>
+		<!-- enable (1) or disable (0) admin jukeboxing -->
+		<!-- if enabled, admins are jukeboxing for free and allways force the challenge into the first place of the jukebox -->
+		<adminjukeboxing>0</adminjukeboxing>
+		<!-- copper price for a jukebox transaction -->
+		<!-- set to null (0) if you want to allow free jukeboxing or running a nations server-->
+		<price>5</price>
+	</jukebox>
+	<popups>
+		<!-- enable (1) or disable (0) voting popup at endrace -->
+		<voting>1</voting>
+		<!-- enable (1) or disable (0) next challenge popup at endrace -->
+		<nextchallenge>1</nextchallenge>
+	</popups>
+</settings>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <status>Etat</status>
+    <bussy>Serveur occupé...</bussy>
+    <challenge>Challenge</challenge>
+    <players>Joueurs</players>
+    <scores>Scores</scores>
+    <silentmode>Mode silencieux</silentmode>
+    <ladderlimit>Limite Ladder</ladderlimit>
+    <coppers>Coppers</coppers>
+    <connectedto>Connecté à</connectedto>
+    <server>Serveur</server>
+    <version>Version</version>
+    <port>Port</port>
+    <network>Données réseaux</network>
+    <uptime>Serveur uptime</uptime>
+    <connections>Connexions</connections>
+    <ctime>temps de connexion</ctime>
+    <recvnetrate>Taux de reception</recvnetrate>
+    <totalrecvsize>Taille totale reçue</totalrecvsize>
+    <sendnetrate>Taux d'envoi</sendnetrate>
+    <totalsendingsize>Taille totale d'envoi</totalsendingsize>
+    <live>Live Modus</live>
+    <livestatus>Etat</livestatus>
+  </plugin>
+</translation>

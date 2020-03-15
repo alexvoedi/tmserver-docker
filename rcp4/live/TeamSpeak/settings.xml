@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (1) or disable (0) the teamspeak plugin -->
+	<enabled>1</enabled>
+	<!-- TeamSpeak Server IP:Port or  Server DNS-->
+	<ip>127.0.0.1:8767</ip>
+	<login>
+		<!-- enable (1) or disable (0) connect with Game-Login -->
+		<enabled>1</enabled>
+	</login>
+	<channel>
+		<!-- enable (1) or disable (0) connect with a especial Channel -->
+		<enabled>1</enabled>
+		<!-- Channel Name-->
+		<cname>TRACKMANIA</cname>
+	</channel>
+	<subchannel>
+		<!-- enable (1) or disable (0) connect with a especial Sub-Channel -->
+		<enabled>1</enabled>
+		<!-- Sub-Channel Name-->
+		<scname>Channel 1</scname>
+	</subchannel>
+</settings>

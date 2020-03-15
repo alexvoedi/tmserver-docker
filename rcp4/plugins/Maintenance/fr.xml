@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<admins>Admins</admins>
+		<addadmin>Ajouter admin</addadmin>
+		<saveerr>Sauvegarde impossible, objet non trouvé</saveerr>
+		<editerr>Edition impossible, objet non trouvé</editerr>
+		<existserr>Objet déjà existant</existserr>
+		<adminedit>Edition Admin</adminedit>
+		<adminservers>Admin sur les serveurs</adminservers>
+		<active>Actif</active>
+		<username>Login</username>
+		<password>mot de passe</password>
+		<communitycode>CommunityCode</communitycode>
+		<passwordi>Laisser vide si vous ne modifiez pas le mot de passe</passwordi>
+		<tmacc>Login TM</tmacc>
+		<tmacci>Entrer le login TM pour authentification depuis le jeu / remoteCP[Live]</tmacci>
+		<language>Langue</language>
+		<style>Style</style>
+		<assigned>Assigné</assigned>
+		<active>Actif</active>
+		<addsuccess>Data successfully added</addsuccess>
+		<editsuccess>Données editées avec succès</editsuccess>
+		<delsuccess>Données effacées avec succès</delsuccess>
+		<nocode>Enlever code TM</nocode>
+		<servers>Serveurs</servers>
+		<addserver>Ajouter serveur</addserver>
+		<serveredit>Editer Serveur</serveredit>
+		<servername>Nom</servername>
+		<serverlogin>Login</serverlogin>
+		<connection>Connexion</connection>
+		<account>Compte</account>
+		<enabled>Activé</enabled>
+		<dsn>DSN</dsn>
+		<host>Host</host>
+		<port>Port</port>
+		<path>Path</path>
+		<ftp>FTP</ftp>
+		<sql>SQL</sql>
+		<settingset>Settingset</settingset>
+		<filepath>Filepath</filepath>
+		<groups>Groupes</groups>
+		<groupperm>Privilèges Admin</groupperm>
+		<groupadd>Ajouter groupe</groupadd>
+		<groupedit>Editer groupe</groupedit>
+		<groupname>Nom</groupname>
+		<group>Groupe</group>
+		<lists>Lists</lists>
+		<guestlist>Guestlist</guestlist>
+		<blacklist>Blacklist</blacklist>
+	</plugin>
+</translation>

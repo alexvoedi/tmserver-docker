@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<general>Övergripande</general>
+		<mode>Mode</mode>
+		<mode0>Rounds</mode0>
+		<mode1>TimeAttack</mode1>
+		<mode2>Team</mode2>
+		<mode3>Laps</mode3>
+		<mode4>Stunts</mode4>
+		<mode5>Cup</mode5>
+		<chattime>Chat Tid</chattime>
+		<finishtimeout>Finish timeout</finishtimeout>
+		<rounds>Rounds Mode</rounds>
+		<points>Points</points>
+		<newrules>Använd nya regler</newrules>
+		<roundlaps>Tvinga round laps</roundlaps>
+		<timeattack>Time Attack Mode</timeattack>
+		<timelimit>Timelimit</timelimit>
+		<syncstart>Synka start period</syncstart>
+		<maxpoints>Max Poäng</maxpoints>
+		<nolaps>Antal varv</nolaps>
+		<team>Team Mode</team>
+		<pts>Poäng</pts>
+		<sec>Sec.</sec>
+		<laps>Varv</laps>
+		<rnd>Rounds</rnd>
+		<cup>Cup Mode</cup>
+		<warmupduration>WarmUpduration</warmupduration>
+		<disablerespawn>Disable Respawn</disablerespawn>
+		<forceshowallopponents>Force vehicledisplay</forceshowallopponents>	
+		<pointslimitnewrules>Points new rules</pointslimitnewrules>
+		<cuproundsperchallenge>Rounds/Challenge</cuproundsperchallenge>
+		<cupnbwinners>CupNbWinners</cupnbwinners>
+	</plugin>
+</translation>

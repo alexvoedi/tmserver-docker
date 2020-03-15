@@ -1,0 +1,35 @@
+/**
+* remoteCP 4
+*
+* @package remoteCP
+* @author hal.sascha
+* @copyright (c) 2006-2009
+* @version 4.0.3.6
+*/
+#modalbg
+{
+	filter:Alpha(opacity=75, finishopacity=75, style=0);
+}
+
+.tabs li
+{
+	top:4px;
+}
+
+.f-field, #mainarea .f-field, #sidearea .f-field
+{
+	margin-left:0;
+	height:30px;
+}
+
+.current
+{
+	float:left;
+	width:25%;
+}
+
+.next
+{
+	margin-left:0;
+	width:35%;
+}

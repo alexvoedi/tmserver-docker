@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<tmxerr>Fel vid läsningen av challangedata från tm-exchange.com</tmxerr>
+		<gcd>Övergripnde Challenge Data</gcd>
+		<name>Namn</name>
+		<author>Upphovsman</author>
+		<env>Env.</env>
+		<mood>Mood</mood>
+		<atime>Author time</atime>
+		<gtime>Guld tid</gtime>
+		<stime>Silver tid</stime>
+		<btime>Brons tid</btime>
+		<coppers>Coppers</coppers>
+		<laps>Varv</laps>
+		<tmx>TMX Stats</tmx>
+		<screen>Screen</screen>
+		<rating>Värde</rating>
+		<votes>Röster</votes>
+		<downloads>Nerladdningar</downloads>
+		<uploaded>Uppladdad</uploaded>
+		<records>Rekord</records>
+		<type>Typ</type>
+		<routes>Rutter</routes>
+		<length>Längd</length>
+		<diff>Svårighet</diff>
+	</plugin>
+</translation>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translation>
+  <core>
+    <title>remoteCP :: Panneau de contrôle du Serveur Dédié</title>
+    <help>Aide</help>
+    <go>go!</go>
+    <submit>soumettre</submit>
+    <close>fermer</close>
+    <restart>redémarrer</restart>
+    <next>suivante</next>
+    <last>précédente</last>
+    <forceend>forcer la fin du round</forceend>
+    <banlist>Liste Bannis</banlist>
+    <ignorelist>Liste Ignorés</ignorelist>
+    <guestlist>Liste Invités</guestlist>
+    <blacklist>Liste Noire</blacklist>
+    <settings>Paramètres</settings>
+    <update>Mettre à jour</update>
+    <logout>Déconnexion</logout>
+    <whoisonline>Qui est en ligne</whoisonline>
+    <noscript>Votre navigateur ne supporte pas JavaScript, ceci est un pré-requis pour l\'utilisation de remoteCP</noscript>
+    <sure>Certain?</sure>
+    <edit>Editer</edit>
+    <delete>Effacer</delete>
+    <manialinkhead>remoteCP</manialinkhead>
+    <mysqlerr1>Connexion au serveur mysql manquée</mysqlerr1>
+    <mysqlerr2>Base de donnée mysql non trouvée</mysqlerr2>
+    <pluginerr1>Repetoire contenants les modules non trouvé</pluginerr1>
+    <pluginerr2>Module non spécifié</pluginerr2>
+    <deflanguage>Fichier de language inexistant, utilisation du language par défaut</deflanguage>
+    <permerr1>Erreur de privilège, non connecté</permerr1>
+    <vpermerr1>Pas de privilèges pour ce module</vpermerr1>
+    <vpermerr2>Le module n\'a pas de privilèges spécifiés</vpermerr2>
+    <accesschanged>Serveur changé</accesschanged>
+    <accesslogout>Déconnecté avec succès</accesslogout>
+    <accessrefresh>rafraîchir</accessrefresh>
+    <accessrelogin>Se reconnecter</accessrelogin>
+    <accesslogin>Connexion</accesslogin>
+    <accessusername>Nom utilisateur</accessusername>
+    <accesspassword>Mot de passe</accesspassword>
+    <accessserver>Serveur</accessserver>
+    <accessnoserver>Aucun serveur disponible, connexion impossible</accessnoserver>
+	<accessrefused>Connexion au serveur refusée, serveur non joignable ou mauvais parametrages de connexion</accessrefused>
+	<accessrefusedusr>Connexion au serveur refusée, Nom de compte SuperAdmin invalide</accessrefusedusr>
+	<accessrefusedpsw>Connexion au serveur refusée, Mot de passe du SuperAdmin invalide</accessrefusedpsw>
+	<offlinelogininfo>Serverconnection not available! remoteCP turned to offline-mode, this is not a error message!</offlinelogininfo>
+  </core>
+</translation>

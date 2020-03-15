@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<mods>
+		<!-- mods for the stadium environement -->
+		<Stadium>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Stadium>
+
+		<!-- mod for the island environement -->
+		<Island>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Island>
+
+		<!-- mod for the bay environement -->
+		<Bay>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Bay>
+
+		<!-- mod for the coast environement -->
+		<Coast>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Coast>
+
+		<!-- mod for the speed environement -->
+		<Speed>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Speed>
+
+		<!-- mod for the alpine environement -->
+		<Alpine>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Alpine>
+
+		<!-- mod for the rally environement -->
+		<Rally>
+			<item name='BPC-Mod'>http://www.blacksunonline.com/redirect/r615/Mods/BPC_planet.zip</item>
+		</Rally>
+	</mods>
+	<music>
+		<item name='name1'>song1</item>
+		<item name='name2'>song2</item>
+		<item name='name3'>song3</item>
+		<item name='name4'>song4</item>
+		<item name='name5'>song5</item>
+	</music>
+</settings>

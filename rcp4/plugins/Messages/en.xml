@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<send>send</send>
+		<unsend>unsend</unsend>
+		<add>add message</add>
+		<saved>Message successfull saved</saved>
+		<saveerr>Error saving message</saveerr>
+		<text>Text</text>
+		<server>Server</server>
+		<author>Author</author>
+		<date>Date</date>
+		<status>Status</status>
+		<deleted>Message successfull deleted</deleted>
+		<deleteerr1>Can not delete this message, not enough permission</deleteerr1>
+		<deleteerr2>Can not delete this message, invalid id</deleteerr2>
+		<unknownserver>Unknown server</unknownserver>
+		<allservers>All servers</allservers>
+		<editerr1>Can not edit this message, not enough permission</editerr1>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Messages plugin allows admins to define and store chat-messages that can be send to a server (or to all servers) by just a single mouse-click. Messages will be send via ingame chat and look like the typical remoteCP-Live info message.
+			</item>
+		</category>
+		<category title="How to...">
+			<item title="">
+				To create a new message use the "add message" button in the top-left corner of the plugin area. This will allow you to define a message-text and to select a server where the message may be send. After the message has been created, you'll see that message in the messages-list. The messages-list will give you further options to edit, delete or send your message to a server.
+			</item>
+		</category>
+		<category title="Send / unsend">
+			<item title="">To send a message to a server, just click on the "send"-button in the message list. The message will get automatically delivered to the defined server(s). If there is no "send"-button but a "unsend"-button, this message has been allready send some time ago. To resend this message, just click on "unsend" and the message gets flagged as NEW, you're able to send it again now.</item>
+		</category>
+	</help>
+</translation>

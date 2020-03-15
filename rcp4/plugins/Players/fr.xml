@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<players>Joueurs</players>
+		<nick>Pseudo</nick>
+		<spec>Spec.</spec>
+		<official>Officiel</official>
+		<rank>Classement</rank>
+		<pb>PB</pb>
+		<score>Score</score>
+		<laps>Tours</laps>
+		<ladder>Points Ladder</ladder>
+		<spectator>spectateur</spectator>
+		<playing>joueur</playing>
+		<inofficial>inofficiel</inofficial>
+		<specs>Spectateurs</specs>
+		<noplayers>Aucun joueur disponible</noplayers>
+		<warn>Avertir</warn>
+		<warnmsg>$s$F00Ceci est un avertissement administratif. Ce que tu as écris va à l'encontre des règles de notre serveur. Ne pas respecter d'autres joueurs, ou utiliser un language offensif peut ammener à un $F00kick, ou banissement $z$88F$sla prochaine fois.$z$s Les administrateurs du serveur.</warnmsg>
+		<kick>Kick</kick>
+		<add>Ajouter</add>
+		<rem>Enlever</rem>
+		<blue>Bleu</blue>
+		<red>Rouge</red>
+		<usersel>choix utilisateur</usersel>
+		<player>joueur</player>
+		<options>Options</options>
+		<forcescores0>normal</forcescores0>
+		<forcescores1>silencieux</forcescores1>
+		<forcespectatortarget>Type Caméra</forcespectatortarget>
+		<camtargetn1>garder l\'état précédent</camtargetn1>
+		<camtarget0>Replay</camtarget0>
+		<camtarget1>Suivre</camtarget1>
+		<camtarget2>Libre</camtarget2>
+		<status>Etat</status>
+		<server1>Serveur de jeu</server1>
+		<server2>Serveur Relay</server2>
+	</plugin>
+</translation>

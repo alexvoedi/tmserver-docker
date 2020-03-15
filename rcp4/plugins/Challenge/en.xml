@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<tmxerr>Error reading challengedata from tm-exchange.com</tmxerr>
+		<gcd>General Challenge Data</gcd>
+		<name>Name</name>
+		<author>Author</author>
+		<env>Env.</env>
+		<mood>Mood</mood>
+		<atime>Author time</atime>
+		<gtime>Gold time</gtime>
+		<stime>Silver time</stime>
+		<btime>Bronze time</btime>
+		<coppers>Coppers</coppers>
+		<laps>Laps</laps>
+		<tmx>TMX Stats</tmx>
+		<screen>Screen</screen>
+		<rating>Rating</rating>
+		<votes>Votes</votes>
+		<downloads>Downloads</downloads>
+		<uploaded>Uploaded</uploaded>
+		<records>Records</records>
+		<type>Type</type>
+		<routes>Routes</routes>
+		<length>Length</length>
+		<diff>Difficult</diff>
+	</plugin>
+</translation>

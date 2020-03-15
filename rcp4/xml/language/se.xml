@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translation>
+  <core>
+    <title>Roots server project - Remote Control Progam</title>
+    <help>Hjälp</help>
+    <go>go!</go>
+    <submit>skicka</submit>
+    <close>Stäng</close>
+    <restart>starta om</restart>
+    <next>nästa</next>
+    <last>sista</last>
+    <forceend>tvinga fram "end of round"</forceend>
+    <banlist>BanList</banlist>
+    <ignorelist>IgnoreList</ignorelist>
+    <guestlist>GuestList</guestlist>
+    <blacklist>BlackList</blacklist>
+    <settings>Inställningar</settings>
+    <update>Uppdatera</update>
+    <logout>Logga ut</logout>
+    <whoisonline>Vilka är online</whoisonline>
+    <noscript>Din webbläsare har JavaScript avstängt, för att du skall kunna köra detta script MÅSTE du aktivera javascript på den webbläsare du vill logga in med.</noscript>
+    <sure>Är du säker?</sure>
+    <edit>editera</edit>
+    <delete>radera</delete>
+    <manialinkhead>remoteCP-4</manialinkhead>
+    <mysqlerr1>Misslyckades att ansluta till mysql servern</mysqlerr1>
+    <mysqlerr2>Kan inte hitta mysql databasen</mysqlerr2>
+    <pluginerr1>Plugin katalogen hittades inte</pluginerr1>
+    <pluginerr2>Plugin inte specificerad</pluginerr2>
+    <deflanguage>Språkfilen hittades inte, kommer att använda förinstallerat språk</deflanguage>
+    <permerr1>Rättighetsfel, inte inloggad</permerr1>
+    <vpermerr1>Inga rättigheter för denna plugin</vpermerr1>
+    <vpermerr2>Denna plugin har inga rättigheter specificerade</vpermerr2>
+    <accesschanged>Servern ändrad</accesschanged>
+    <accesslogout>Utloggningen lyckades</accesslogout>
+    <accessrefresh>ladda om</accessrefresh>
+    <accessrelogin>logga in igen</accessrelogin>
+    <accesslogin>Logga in</accesslogin>
+    <accessusername>Användarnamn</accessusername>
+    <accesspassword>Lösenord</accesspassword>
+    <accessserver>Server</accessserver>
+    <accessnoserver>Inga servrar igång. Du kan därför inte logga in</accessnoserver>
+	<accessrefused>Anslutningen nekades, servern kan inte kontaktas eller så har du angett fel anslutningsuppgiter</accessrefused>
+	<accessrefusedusr>Anslutningen nekades, ogiltigt SuperAdmin användarnamn</accessrefusedusr>
+	<accessrefusedpsw>Anslutningen nekades,ogiltigt SuperAdmin lösenord</accessrefusedpsw>
+	<offlinelogininfo>Serverconnection not available! remoteCP turned to offline-mode, this is not a error message!</offlinelogininfo>
+  </core>
+</translation>

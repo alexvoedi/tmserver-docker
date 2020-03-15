@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<forcemods>Force Mods</forcemods>
+		<forcedmods>Forced Mods</forcedmods>
+		<forcemusic>Force Music</forcemusic>
+		<forcedmusic>Forced Music</forcedmusic>
+		<stadium>Stadium</stadium>
+		<island>Island</island>
+		<bay>Bay</bay>
+		<coast>Coast</coast>
+		<speed>Speed</speed>
+		<alpine>Alpine</alpine>
+		<rally>Rally</rally>
+		<song>Song</song>
+		<none>none</none>
+		<disableall>Disable all</disableall>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The Mods plugin allows you to define a environment-MOD by game-environment or force a ogg/mux song to a players. Forced mods or songs will also overwrite mods/songs that got added to the challenge itself.
+			</item>
+		</category>
+		<category title="How to... force a mod">
+			<item title="">
+				You can define mods by enviroment inside the plugins settings.xml (see /plugins/Mods/settings.xml). Usage is easy, just select the mod via the drop-down-list(s) and hit the submit-button. Mods may need a round restart/nextchallenge to be shown. You can also disable all forced mods by selecting the "disable all" checkbox and hitting the submit-button.
+			</item>
+		</category>
+		<category title="How to... force a song">
+			<item title="">
+				You can define songs inside the plugins settings.xml (see /plugins/Mods/settings.xml). Usage is easy, just select the song via the drop-down-list(s) and hit the submit-button. Songs may need a round restart/nextchallenge to be shown. You can also disable all forced songs by selecting the "disable all" checkbox and hitting the submit-button.
+			</item>
+		</category>
+	</help>
+</translation>

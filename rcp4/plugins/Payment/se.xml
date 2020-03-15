@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<pay>Betala till spelare</pay>
+		<acoppers>Tillgängliga Coppers</acoppers>
+		<player>Spelare</player>
+		<sel>- välj -</sel>
+		<coppers>Coppers</coppers>
+		<info>Information</info>
+		<bill>Skicka räkning till spelare</bill>
+		<rplayer>Mottagande spelare</rplayer>
+		<pplayer>Betalar spelare</pplayer>
+		<serverac>Server Acc</serverac>
+		<donate>remoteCP donation</donate>
+		<author>Upphovsman</author>
+		<payerr>Fel på betalningsdata, betalning kan inte utföras</payerr>
+		<billerr>Ogiltigt räkningsdata, kan inte skicka räkningen</billerr>
+	</plugin>
+</translation>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- count of times, the player has to drive until the training plugin shows its standings -->
+	<maxtimes>10</maxtimes>
+</settings>

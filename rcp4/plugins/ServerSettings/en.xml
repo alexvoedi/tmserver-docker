@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<translation>
+	<plugin>
+		<general>General</general>
+		<name>Name</name>
+		<comment>Comment</comment>
+		<refereemode>Referee Mode</refereemode>
+		<refereemode0>Top 3 players</refereemode0>
+		<refereemode1>all players</refereemode1>
+		<autosavevalidationreplays>Save Valid.-Replays</autosavevalidationreplays>
+		<hideserver>Hide Server</hideserver>
+		<hideserver0>none</hideserver0>
+		<hideserver1>all</hideserver1>
+		<hideserver2>Nations only</hideserver2>
+		<usechangingvalidationseed>Change Valid.-Seed</usechangingvalidationseed>
+		<password>Password</password>
+		<playerpsw>Player</playerpsw>
+		<spectatorpsw>Spectator</spectatorpsw>
+		<refereepsw>Referee</refereepsw>
+		<vehiclequal>Vehicle net Qual.</vehiclequal>
+		<vehiclequal0>fast</vehiclequal0>
+		<vehiclequal1>high</vehiclequal1>
+		<download>Challenge Download</download>
+		<replays>Auto Save Replays</replays>
+		<ladder>Ladder Mode</ladder>
+		<ladder0>Inactive</ladder0>
+		<ladder1>Normal</ladder1>
+		<p2p>P2P</p2p>
+		<p2pup>Upload</p2pup>
+		<p2pdown>Download</p2pdown>
+		<maxplayers>Max. Players</maxplayers>
+		<maxplayersp>Player</maxplayersp>
+		<maxplayerss>Spectators</maxplayerss>
+		<callvote>Call Vote</callvote>
+		<callvotet>Timeout</callvotet>
+		<callvoter>Ratio</callvoter>
+		<sec>Sec.</sec>
+		<nameupderr>Error updating servername, server not found</nameupderr>
+		<buddynotification>BuddyNotification</buddynotification>
+	</plugin>
+	<help>
+		<category title="General">
+			<item title="">
+				The ServerSettings plugin allows you to change all server related settings. Mostly all options will need a challenge restart or mapchange to take in effect. Its a good practice to allways restart the current challenge after changing this settings, even if a option don't need that.
+			</item>
+		</category>
+		<category title="General settings">
+			<item title="Name">Name of the server</item>
+			<item title="Comment">Comment info of the server</item>
+			<item title="Hide Server">Shows/hides the server from the serverlist</item>
+			<item title="BuddyNotification">Shows/hides the buddynotifications on this server</item>
+			<item title="Referee Mode">information currently not available</item>
+			<item title="Save Valid.-Replays">information currently not available</item>
+			<item title="Change Valid.-Seed">If enabled, the starting position of a players gets randomly changed a little bit at round-start. This is against keymakro usage.</item>
+			<item title="Vehicle net Qual.">information currently not available</item>
+			<item title="Challenge Download">Enables/disables challenge downloads</item>
+			<item title="Auto Save Replays">If enabled, server will automatically save replays of each round</item>
+			<item title="Ladder Mode">information currently not available</item>
+		</category>
+		<category title="Password settings">
+			<item title="Player">Password the player will need to play on this server</item>
+			<item title="Spectator">Password the player will need to play join this server as specator</item>
+			<item title="Referee">Password the player will need to play join this server as referee</item>
+		</category>
+		<category title="P2P settings">
+			<item title="Upload">Enables/disables the P2P upload</item>
+			<item title="Download">Enables/disables the P2P download</item>
+		</category>
+		<category title="Max. Players">
+			<item title="Player">Maximum number of players allowed on this server</item>
+			<item title="Spectators">Maximum number of specators allowed on this server</item>
+		</category>
+		<category title="Call Vote">
+			<item title="Timeout">Time until a vote ends (if not a players voted)</item>
+			<item title="Ratio">information currently not available</item>
+		</category>
+	</help>
+</translation>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<send>send</send>
+		<unsend>unsend</unsend>
+		<add>add message</add>
+		<saved>Message successfull saved</saved>
+		<saveerr>Error saving message</saveerr>
+		<text>Text</text>
+		<server>Server</server>
+		<author>Author</author>
+		<date>Date</date>
+		<status>Status</status>
+		<deleted>Message successfull deleted</deleted>
+		<deleteerr1>Can not delete this message, not enough permission</deleteerr1>
+		<deleteerr2>Can not delete this message, invalid id</deleteerr2>
+		<unknownserver>Unknown server</unknownserver>
+		<allservers>All servers</allservers>
+		<editerr1>Can not edit this message, not enough permission</editerr1>
+	</plugin>
+</translation>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <playerban>Banna spelare</playerban>
+    <playerignore>Ignorera spelare</playerignore>
+    <playerguest>Lägg till gäst</playerguest>
+    <playerblack>Svartlista spelare</playerblack>
+    <login>Login</login>
+    <rem>Ta bort</rem>
+    <addguest>Lägg till gästlistan</addguest>
+    <addblack>Lägg till svartlistan</addblack>
+  </plugin>
+</translation>

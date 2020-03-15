@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (0) or disable (1) sending new records to dedimania -->
+	<readonly>0</readonly>
+	<!-- Url to the Dedimania server -->
+	<url>http://dedimania.net:8014/Dedimania</url>
+	<!-- Maximum count of records, returned by dedimaniaserver -->
+	<maxrecords>30</maxrecords>
+	<!-- Default nation, since RCP don't support any nation value -->
+	<nation>GER</nation>
+	<ui>
+		<!-- enable (1) or disable (0) the recordsUI panel -->
+		<enabled>1</enabled>
+		<!-- mimimum number of recs displayed in the UI panel -->
+		<minrecdisp>3</minrecdisp>
+		<!-- maximum number of recs displayed in the UI panel -->
+		<maxrecdisp>8</maxrecdisp>
+	</ui>
+</settings>

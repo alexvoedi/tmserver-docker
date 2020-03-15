@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<messages>
+		<welcome>Welcome to !hl!%1$s !df!running with !hl!remoteCP %2$s</welcome>
+		<connect>
+			<admin>!hl!New %1$s: !df!%2$s !df!from !si!%3$s</admin>
+			<player>!hl!New Player: !df!%1$s !df!from !si!%2$s</player>
+		</connect>
+		<disconnect>
+			<admin>!hl!%1$s left: !df!%2$s !df!(played !si!%3$s!df!)</admin>
+			<player>!hl!Player left: !df!%1$s !df!(played !si!%2$s!df!)</player>
+		</disconnect>
+	</messages>
+</settings>

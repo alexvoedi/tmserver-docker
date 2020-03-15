@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- maximum number of ranks that will be displayed as new record info -->
+	<infomaxranks>50</infomaxranks>
+	<ui>
+		<!-- enable (1) or disable (0) the recordsUI panel -->
+		<enabled>1</enabled>
+		<!-- mimimum number of recs displayed in the UI panel -->
+		<minrecdisp>3</minrecdisp>
+		<!-- maximum number of recs displayed in the UI panel -->
+		<maxrecdisp>8</maxrecdisp>
+	</ui>
+</settings>

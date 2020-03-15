@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<challenges>Challenges</challenges>
+		<nochallenges>keine Challenges verfügbar</nochallenges>
+		<name>Name</name>
+		<author>Autor</author>
+		<env>Umgebung</env>
+		<gtime>Gold Zeit</gtime>
+		<coppers>Coppers</coppers>
+		<choose>Wähle die nächste(n) Challenge(s)</choose>
+		<del>Lösche Challenge(s)</del>
+		<shuffle>Mische Challenge(s)</shuffle>
+		<sort>Sortiere challenge(s)</sort>
+		<options>Optionen</options>
+		<votings>Wertungen</votings>
+	</plugin>
+</translation>

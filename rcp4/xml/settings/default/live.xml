@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<live>
+	<settings>
+		<!-- use messagescontainer (true) or chat (false) for global infos -->
+		<messagesui>true</messagesui>
+		<!-- enable (true) or disable (false) the /su admin validation -->
+		<usesu>false</usesu>
+	</settings>
+	<plugins>
+		<!-- do not move or change this plugins -->
+		<plugin>PCore</plugin>
+		<plugin>Menu</plugin>
+		<plugin>Keyboard</plugin>
+
+		<!-- common plugins -->
+		<plugin>Admin</plugin>
+		<plugin>Challenges</plugin>
+		<plugin>Players</plugin>
+		<plugin>Records</plugin>
+		<plugin>Help</plugin>
+
+		<!-- other plugins -->
+		<plugin>Dedimania</plugin>
+		<plugin>Ads</plugin>
+		<plugin>Chat</plugin>
+		<plugin>Clock</plugin>
+		<plugin>Donations</plugin>
+		<plugin>Ladder</plugin>
+		<plugin>LiveStatus</plugin>
+		<plugin>Lottery</plugin>
+		<plugin>Idle</plugin>
+		<plugin>Music</plugin>
+		<plugin>PPlugins</plugin>
+		<plugin>Scoring</plugin>
+		<plugin>Servers</plugin>
+		<plugin>TALimit</plugin>
+		<plugin>TeamSpeak</plugin>
+		<plugin>TMX</plugin>
+		<plugin>Training</plugin>
+		<plugin>Uptime</plugin>
+		<plugin>Welcome</plugin>
+
+		<!-- external plugins -->
+	</plugins>
+	<colors>
+		<chat>
+			<!-- !df! = default style -->
+			<default>$z$FFF</default>
+			<!-- !hl! = hightlight style D26 / 9B2 / 29B -->
+			<highlight>$z$D26</highlight>
+			<!-- !si! = subitem style -->
+			<subitem>$z$29B</subitem>
+			<!-- !cm! = chatcommand style -->
+			<command>$z$FFF</command>
+		</chat>
+		<ml>
+			<styles>
+				<format textsize='1' textcolor='FFFF' />
+				<header style='Bgs1' substyle='BgListLine' textcolor='D26F' valign='center' />
+				<main style='Bgs1InRace' substyle='BgList' />
+				<sub style='BgsPlayerCard' substyle='BgRacePlayerName' />
+				<tmf style='BgsPlayerCard' substyle='BgPlayerCardBig' />
+				<btn1n style='BgsPlayerCard' substyle='BgCard' halign='center' textcolor='FFFF'  />
+				<btn1a style='BgsPlayerCard' substyle='BgMediaTracker' halign='center' textcolor='D26F'  />
+				<btn2n style='BgsPlayerCard' substyle='BgPlayerCardSmall' halign='center' textcolor='FFFF'  />
+				<btn2a style='BgsPlayerCard' substyle='BgPlayerCardSmall' halign='center' textcolor='29BF'  />
+				<thead bgcolor='222C' textcolor='ffff' />
+				<linehl style='BgsPlayerCard' substyle='BgCard' />
+			</styles>
+			<fonts>
+				<!-- !fhl! = hightlight font color -->
+				<highlight>D26F</highlight>
+				<!-- !fsi! = subitem font color -->
+				<subitem>29BF</subitem>
+			</fonts>
+		</ml>
+	</colors>
+</live>

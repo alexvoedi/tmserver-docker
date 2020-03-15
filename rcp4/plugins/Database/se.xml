@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <options>alternativ</options>
+    <options2>Alt.</options2>
+    <display>Visa</display>
+    <challenges>Challenges</challenges>
+    <players>Spelare</players>
+    <orderby>Sortera efter</orderby>
+    <obname>Namn</obname>
+    <obauthor>Upphovsman</obauthor>
+    <obenvironment>Environment</obenvironment>
+    <oblogin>Login</oblogin>
+    <obnickname>NickName</obnickname>
+    <obwins>Segrar</obwins>
+    <obtimeplayed>Tid spelad</obtimeplayed>
+    <otasc>stigande</otasc>
+    <otdesc>fallande</otdesc>
+    <search>Sök</search>
+    <searchby>Filtrera</searchby>
+    <searchvalue>sökvärde</searchvalue>
+    <id>ID</id>
+    <name>Namn</name>
+    <author>Upphovsman</author>
+    <environment>Environment</environment>
+    <trecord>Top rek.</trecord>
+    <records>rekord</records>
+    <login>Login</login>
+    <nickname>NickName</nickname>
+    <game>Spel</game>
+    <update>Uppdaterad vid</update>
+    <wins>segrar</wins>
+    <timeplayed>speladtid</timeplayed>
+    <challenge>Challenge</challenge>
+    <score>Poäng</score>
+    <date>Datum</date>
+    <edit>Editera</edit>
+    <challengedelok>Challenge (Id: %1$s; Name: %2$s) raderad</challengedelok>
+    <challengedelerr>Fel vid radering av challange (Id: %1$s; Name: %2$s)</challengedelerr>
+    <playerdelok>Spelare (Id: %1$s; Name: %2$s) raderad</playerdelok>
+    <playerdelerr>Fel vi radering av spelare (Id: %1$s; Name: %2$s)</playerdelerr>
+    <recorddelok>Rekord (Id: %1$s; Name: %2$s) readerat</recorddelok>
+    <recorddelerr>Fel vid radering av rekord (Id: %1$s; Name: %2$s)</recorddelerr>
+    <challengesaveok>Challenge (Id: %1$s; Name: %2$s) sparat</challengesaveok>
+    <challengesaveerr>Fel vid sparandet av challenge (Id: %1$s; Name: %2$s)</challengesaveerr>
+    <playersaveok>Spelare (Id: %1$s; Name: %2$s) sparad</playersaveok>
+    <playersaveerr>Fil vid sparande av spelare (Id: %1$s; Name: %2$s)</playersaveerr>
+    <recordsaveok>Rekord (Id: %1$s) sparat</recordsaveok>
+    <recordsaveerr>Fel vid sparande av rekord (Id: %1$s)</recordsaveerr>
+  </plugin>
+</translation>

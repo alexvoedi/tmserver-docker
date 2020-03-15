@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<ftperr1>FTP Fehler: Login am Server mit den gegebenen Benutzerdaten nicht möglich</ftperr1>
+		<ftperr2>FTP Fehler: Server nicht erreichbar, Verbindung nicht verfügbar</ftperr2>
+		<ftperr3>FTP Fehler: Modus konnte nicht geändert werden</ftperr3>
+		<uperr1>Hochgeladene Datei ist größer als die Servereinstellung es erlaubt</uperr1>
+		<uperr2>Hochgeladene Datei ist nur teilweise verfügbar</uperr2>
+		<uperr3>Hochgeladene Datei ist größer als vom Browser erlaubt</uperr3>
+		<uperr4>Keine Datei hochgeladen</uperr4>
+		<uperr5>Keine Datei übermittelt</uperr5>
+		<uperr6>Hochgeladene Datei ist zu groß</uperr6>
+		<uptmxerr1>Ungültige TM-Exchange Id</uptmxerr1>
+		<upziperr1>Fehler beim hochladen der ZIP Datei, entpacken der ZIP Datei nicht möglich</upziperr1>
+		<upziperr2>Fehler beim hochladen der ZIP Datei, unbekannter Fehler</upziperr2>
+		<upziperr3>Fehler beim hochladen der ZIP Datei, ungültige ZIP Datei</upziperr3>
+		<upziperr4>Fehler beim hochladen der ZIP Datei, unbekannter Fehler</upziperr4>
+		<uploaded>Hochgeladen</uploaded>
+		<sortby>Ordnen</sortby>
+		<sbname>Name</sbname>
+		<sbauthor>Autor</sbauthor>
+		<sbsize>Größe</sbsize>
+		<sbtime>Zeit</sbtime>
+		<files>Dateien</files>
+		<ftpmode>ftp Modus</ftpmode>
+		<locmode>lokaler Modus</locmode>
+		<queue>Queue</queue>
+		<emptyq>queue leeren</emptyq>
+		<insertfiles>Dateien in die aktuellen Challengeliste einfügen</insertfiles>
+		<addfiles>Dateien zu der aktuelle Challengeliste hinzufügen</addfiles>
+		<deletefiles>Dateien löschen</deletefiles>
+		<upload>Hochladen</upload>
+		<dir>Verzeichnis</dir>
+		<file>Datei</file>
+		<savems>Aktuelle Matchsettings speichern</savems>
+		<loadms>Matchsettings laden</loadms>
+		<appms>Challengeliste aus Matchsettings laden und erweitern</appms>
+		<savess>Aktuelle Serversettings speichern</savess>
+		<loadss>Serversettings laden</loadss>
+		<filename>Dateiname</filename>
+		<folder>Verzeichnis</folder>
+		<nodirs>keine Verzeichnisse gefunden</nodirs>
+		<nofiles>keine Dateien gefunden</nofiles>
+		<readdirerr>Verzeichnis lesen - konnte Verzeichnis nicht öffnen: </readdirerr>
+		<deleteerr>Nicht möglich Dateien zu löschen: </deleteerr>
+		<tmxid>TM-Exchange ID</tmxid>
+		<tmxtype>TM-Exchange Typ</tmxtype>
+		<uploadtype>Uploadvariante</uploadtype>
+		<folderup>Nach oben wechseln</folderup>
+	</plugin>
+</translation>

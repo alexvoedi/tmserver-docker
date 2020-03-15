@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- enable (1) or disable (0) plugin -->
+	<enabled>1</enabled>
+	<!-- 'minrecords' limits the amount of data, higher values will increases the ladder performance -->
+	<minrecords>10</minrecords>
+	<!-- 'maxrecords' limits the amount of points per track, higher values will increases accuracy -->
+	<maxrecords>500</maxrecords>
+	<!-- (0) best player = min. points or (1) best player = max. points -->
+	<ladderoption>0</ladderoption>
+	<!-- (0) points or (1) average -->
+	<laddertype>0</laddertype>
+	<!-- Decimal places to show on Ladder -->
+	<lpdecimals>0</lpdecimals>
+	<!-- Ladder points multiplicator, Only used if laddertype = 0-->
+	<lpmulti>10000</lpmulti>
+</settings>

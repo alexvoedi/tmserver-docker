@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <status>Status</status>
+    <bussy>Servern upptagen...</bussy>
+    <challenge>Challenge</challenge>
+    <players>Spelare</players>
+    <scores>Poäng</scores>
+    <silentmode>Silentmode</silentmode>
+    <coppers>Coppers</coppers>
+    <connectedto>Ansluten till</connectedto>
+    <server>Server</server>
+    <version>Version</version>
+    <port>Port</port>
+    <network>Nätverks data</network>
+    <uptime>Serverns uptid</uptime>
+    <connections>Anslutningar</connections>
+    <ctime>Anslutningstid</ctime>
+    <recvnetrate>Motta.Hastighet</recvnetrate>
+    <totalrecvsize>TotaltMottagenStorlek</totalrecvsize>
+    <sendnetrate>Skicka.Hastighet</sendnetrate>
+    <totalsendingsize>TotaltSkickadStorlek</totalsendingsize>
+  </plugin>
+</translation>

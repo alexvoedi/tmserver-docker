@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translation>
+  <core>
+    <title>remoteCP :: Dedicated Server Remote Control Panel</title>
+    <help>Help</help>
+    <go>go!</go>
+    <submit>submit</submit>
+    <close>close</close>
+    <restart>restart</restart>
+    <next>next</next>
+    <last>last</last>
+    <forceend>force end of round</forceend>
+    <banlist>BanList</banlist>
+    <ignorelist>IgnoreList</ignorelist>
+    <guestlist>GuestList</guestlist>
+    <blacklist>BlackList</blacklist>
+    <settings>Settings</settings>
+    <update>Update</update>
+    <logout>Logout</logout>
+    <whoisonline>Who is online</whoisonline>
+    <noscript>Your browser does not support JavaScript, but this is absolutly essential for the use of remoteCP</noscript>
+    <sure>Are you sure?</sure>
+    <edit>edit</edit>
+    <delete>delete</delete>
+    <manialinkhead>remoteCP</manialinkhead>
+    <mysqlerr1>Connection to the mysql server missed</mysqlerr1>
+    <mysqlerr2>Can not find mysql database</mysqlerr2>
+    <pluginerr1>Plugin Directory not found</pluginerr1>
+    <pluginerr2>Plugin not specified</pluginerr2>
+    <deflanguage>Language file not found, trying to use default language</deflanguage>
+    <permerr1>Permission error, not logged in</permerr1>
+    <vpermerr1>No permissions for this plugin</vpermerr1>
+    <vpermerr2>Plugin has no permission specified</vpermerr2>
+    <accesschanged>Server changed</accesschanged>
+    <accesslogout>Logout successfull</accesslogout>
+    <accessrefresh>refresh</accessrefresh>
+    <accessrelogin>login again</accessrelogin>
+    <accesslogin>Login</accesslogin>
+    <accessusername>Username</accessusername>
+    <accesspassword>Password</accesspassword>
+    <accessserver>Server</accessserver>
+    <accessnoserver>no open servers available, login not possible</accessnoserver>
+	<accessrefused>Server connection refused, Server not reachable or wrong connection settings</accessrefused>
+	<accessrefusedusr>Server connection refused, invalid SuperAdmin accountname</accessrefusedusr>
+	<accessrefusedpsw>Server connection refused, invalid SuperAdmin password</accessrefusedpsw>
+	<offlinelogininfo>Serverconnection not available! remoteCP turned to offline-mode, this is not a error message!</offlinelogininfo>
+  </core>
+</translation>

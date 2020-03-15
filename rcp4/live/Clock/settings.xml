@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- Date format, based on php's date function: http://www.php.net/date -->
+	<format>H:i T</format>
+</settings>

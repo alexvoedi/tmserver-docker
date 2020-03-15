@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+  <plugin>
+    <options>Optionen</options>
+    <options2>Opt.</options2>
+    <display>Anzeige</display>
+    <challenges>Challenges</challenges>
+    <players>Spieler</players>
+    <orderby>Ordnen</orderby>
+    <obname>Name</obname>
+    <obauthor>Autor</obauthor>
+    <obenvironment>Umgebung</obenvironment>
+    <oblogin>Login</oblogin>
+    <obnickname>NickName</obnickname>
+    <obwins>Siege</obwins>
+    <obtimeplayed>gespielte Zeit</obtimeplayed>
+    <otasc>aufsteigend</otasc>
+    <otdesc>absteigend</otdesc>
+    <search>Suche</search>
+    <searchby>Suche nach</searchby>
+    <searchvalue>Suchbegriff</searchvalue>
+    <id>ID</id>
+    <name>Name</name>
+    <author>Autor</author>
+    <environment>Umgebung</environment>
+    <trecord>Top Rek.</trecord>
+    <records>Rekorde</records>
+    <login>Login</login>
+    <nickname>NickName</nickname>
+    <game>Spiel</game>
+    <update>Aktualisiert</update>
+    <wins>Siege</wins>
+    <timeplayed>gespielte Zeit</timeplayed>
+    <challenge>Challenge</challenge>
+    <score>Wertung</score>
+    <date>Datum</date>
+    <edit>Ändern</edit>
+    <challengedelok>Challenge (Id: %1$s; Name: %2$s) erfolgreich gelöscht</challengedelok>
+    <challengedelerr>Fehler beim löschen der Challenge (Id: %1$s; Name: %2$s)</challengedelerr>
+    <playerdelok>Spieler (Id: %1$s; Name: %2$s) erfolgreich gelöscht</playerdelok>
+    <playerdelerr>Fehler beim löschen des Spielers (Id: %1$s; Name: %2$s)</playerdelerr>
+    <recorddelok>Rekord (Id: %1$s; Name: %2$s) erfolgreich gelöscht</recorddelok>
+    <recorddelerr>Fehler beim löschen des Rekords (Id: %1$s; Name: %2$s)</recorddelerr>
+    <challengesaveok>Challenge (Id: %1$s; Name: %2$s) erfolgreich gespeichert</challengesaveok>
+    <challengesaveerr>Fehler beim speichern der Challenge (Id: %1$s; Name: %2$s)</challengesaveerr>
+    <playersaveok>Spieler (Id: %1$s; Name: %2$s) erfolgreich gespeichert</playersaveok>
+    <playersaveerr>Fehler beim speichern des Spielers (Id: %1$s; Name: %2$s)</playersaveerr>
+    <recordsaveok>Rekord (Id: %1$s) erfolgreich gespeichert</recordsaveok>
+    <recordsaveerr>Fehler beim speichern des Rekords (Id: %1$s)</recordsaveerr>
+  </plugin>
+</translation>

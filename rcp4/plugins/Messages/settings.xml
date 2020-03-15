@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<!-- Default format of any send messages -->
+	<format> >> $z%1$s</format>
+</settings>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<ftperr1>Erreur FTP : Impossible de se connecter aver le login / mot de passe fourni</ftperr1>
+		<ftperr2>Erreur FTP : Impossible de contacter le serveur FTP avec le nom d\'hote fourni, connexion indisponible</ftperr2>
+		<ftperr3>Erreur FTP : Impossible de changer le mode ftp</ftperr3>
+		<uperr1>Taille du fichier à uploader supérieure à celle authorisée par la configuration serveur</uperr1>
+		<uperr2>Fichier uploadé disponible seulement partiellement</uperr2>
+		<uperr3>Taille du fichier uploadé supérieure à celle authorisée par le client</uperr3>
+		<uperr4>Pas de fichier uploadé</uperr4>
+		<uperr5>Aucun fichier fourni</uperr5>
+		<uperr6>Fichier uploadé trop gros</uperr6>
+		<uptmxerr1>Identifiant TM-Exchange invalide</uptmxerr1>
+		<upziperr1>Erreur durant l\'upload du fichier zip, impossible de décompresser le fichier zip</upziperr1>
+		<upziperr2>Erreur durant l\'upload du fichier zip, erreur inconnue</upziperr2>
+		<upziperr3>Erreur durant l\'upload du fichier zip, fichier zip invalide</upziperr3>
+		<upziperr4>Erreur durant l\'upload du fichier zip, erreur inconnue</upziperr4>
+		<uploaded>Uploadé</uploaded>
+		<sortby>Trier par</sortby>
+		<sbname>Nom</sbname>
+		<sbauthor>Auteur</sbauthor>
+		<sbsize>Taille</sbsize>
+		<sbtime>Temps</sbtime>
+		<files>Fichiers</files>
+		<ftpmode>Mode ftp</ftpmode>
+		<locmode>Mode local</locmode>
+		<queue>Queue</queue>
+		<emptyq>Queue vide</emptyq>
+		<insertfiles>Inserer fichiers dans la liste des challenges en cours</insertfiles>
+		<addfiles>Ajouter fichiers dans la liste des challenges en cours</addfiles>
+		<deletefiles>Effacer fichiers</deletefiles>
+		<upload>Upload</upload>
+		<dir>Dir</dir>
+		<file>Fichier</file>
+		<savems>Sauvegarder paramètres Match courrant</savems>
+		<loadms>Charger paramètres Match</loadms>
+		<savess>Save Current Serversettings</savess>
+		<loadss>Load Serversettings</loadss>
+		<appms>Ajouter la Playlist contenue dans les paramètres Match</appms>
+		<filename>Nom de fichier</filename>
+		<folder>Répertoire</folder>
+		<nodirs>Aucun répertoire trouvé</nodirs>
+		<nofiles>Aucun fichier trouvé</nofiles>
+		<readdirerr>Lecture répertoire - impossible d\'ouvrir le répertoire: </readdirerr>
+		<deleteerr>Impossible d\'effacer le fichier: </deleteerr>
+		<tmxid>TM-Exchange ID</tmxid>
+		<tmxtype>TM-Exchange Type</tmxtype>
+		<uploadtype>Uploadtype</uploadtype>
+		<folderup>Change path upwards</folderup>
+	</plugin>
+</translation>

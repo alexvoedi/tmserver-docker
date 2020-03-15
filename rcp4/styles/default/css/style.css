@@ -1,0 +1,580 @@
+@charset "utf-8";
+
+/**
+* remoteCP 4
+* ütf-8 release
+*
+* @package remoteCP
+* @author hal.sascha
+* @copyright (c) 2006-2009
+* @version 4.0.3.6
+*/
+
+iframe			{ border-width:0px; height:175px; width:500px; vertical-align:top; }
+iframe.hidden		{ visibility:hidden; width:0px; height:0px; }
+
+/* Globals */
+*
+{
+	margin:0;
+	padding:0;
+}
+
+a
+{
+	color:#ff006C;
+	text-decoration:none;
+}
+
+a:hover, a:visited
+{
+	text-decoration:none;
+}
+
+a, a img
+{
+	border:0;
+}
+
+body
+{
+	font:10px "Trebuchet MS";
+	background-color:#f4f4f4;
+	margin:0px 15px 15px 15px;
+}
+
+.bold
+{
+	font-weight:bold;
+}
+
+/* Container */
+#noscript
+{
+	text-align:center;
+	border:1px solid #2F0000;
+	color:#990000;
+	font-weight:bold;
+	padding:7px;
+	background-color:#C0C1C3;
+	margin-bottom:7px;
+}
+
+#head
+{
+	margin-left:-15px;
+	margin-right:-15px;
+	height:68px;
+	background:url(../topbox-bg.jpg) repeat-x;
+}
+
+#headcA
+{
+	float:left;
+	margin-left:220px;
+}
+
+#headcB
+{
+	float:right;
+	margin-right:2px;
+}
+
+div.headc
+{
+	height:68px;
+	line-height:65px;
+}
+
+div.headc span
+{
+	font:11px Tahoma;
+	color:#e4236c;
+}
+
+div.headc img
+{
+	position:relative;
+	top:3px;
+}
+
+#headl
+{
+	height:68px;
+	background:url(../topbox-left.jpg) no-repeat;
+}
+
+#headr
+{
+	float:right;
+	width:37px;
+	height:68px;
+	background:url(../topbox-right.jpg) no-repeat;
+}
+
+#mainbox
+{
+	width:100%;
+}
+
+#mainbox tr:hover
+{
+	background-color:transparent;
+}
+
+#mainbox, #mainbox tr, #mainbox td
+{
+	border-collapse:collapse;
+	border:0;
+	/*padding:0;
+	margin:0;*/
+	vertical-align:top;
+}
+
+#foot, #foot a
+{
+	text-align:center;
+	font:11px Tahoma;
+	color:#e4236c;
+}
+
+#chngsrv
+{
+	position:relative;
+	top:2px;
+	width:150px;
+	font-size:9px;
+	height:15px;
+	line-height:15px;
+	margin:0;
+	padding:0;
+}
+
+#chngsrv .selected
+{
+	background:#e4236c;
+	color:#ffffff;
+}
+
+.boxtt, .boxbb, .boxll, .boxrr, .boxtr, .boxtl, .boxbr, .boxbl
+{
+	margin:0;
+	padding:0;
+}
+
+.boxtt 
+{
+	background:#ffffff url(../boxtt.png) top left repeat-x;
+}
+
+.boxbb
+ {
+	background:url(../boxbb.png) bottom center repeat-x;
+}
+
+.boxll
+{
+	background:url(../boxll.png) top left repeat-y;
+}
+
+.boxrr
+{
+	background:url(../boxrr.png) top right repeat-y;
+}
+
+.boxtr
+{
+	background:url(../boxtr.png) top right no-repeat;
+}
+
+.boxtl
+{
+	background:url(../boxtl.png) top left no-repeat;
+}
+
+.boxbr
+{
+	background:url(../boxbr.png) bottom right no-repeat;
+}
+
+.boxbl
+{
+	background:url(../boxbl.png) bottom left no-repeat;
+}
+
+.boxh
+{
+	margin:0;
+	padding-left:25px;
+	padding-top:18px;
+	font:10px Tahoma;
+	color:#ffffff;
+	text-transform:uppercase;
+}
+
+.boxc
+{
+	padding:5px 15px 15px 15px;
+	font:10px "Trebuchet MS";
+}
+
+.boxc p
+{
+	padding:3px;
+}
+
+.messages
+{
+	clear:both;
+}
+
+.messages ul
+{
+	list-style:				none;
+	margin:					0;
+	padding:				0;
+}
+
+.messages ul li
+{
+	padding:				10px 20px 10px 45px;
+	margin:					1px;
+	border-top:				1px solid #000000;
+	border-bottom:			1px solid #000000;
+	background-attachment:	fixed;
+	background:				#fff6bf url(../icons/information.png) center no-repeat;
+	background-position:	15px 50%;
+}
+
+.messages ul li.error
+{
+	color:					#ffffff;
+	background-color:		#ff4e3e;
+	background-image:		url(../icons/error.png);
+	border-color:			#d84e3e;
+}
+
+.messages ul li.info
+{
+	background-color:		#f8fafc;
+	background-image:		url(../icons/information.png);
+	border-color:			#b5d4fe;
+}
+
+/* Ajax */
+.loading
+{
+	background:url(../loading.gif) top right no-repeat;
+}
+
+/* Tabs */
+.tabs
+{
+	font:11px Tahoma;
+	list-style-type:none;
+	/*height:22px;*/
+	line-height:22px;
+	padding-top:2px;
+	padding-left:3px;
+}
+
+.tabs li
+{
+	display:inline;
+}
+
+.tabs li a
+{
+	float:left;
+	width:66px;
+	height:22px;
+	padding-left:8px;
+	margin-right:2px;
+	text-decoration:none;
+	color:#6e6e6e;
+	background:url(../tab.jpg) no-repeat;
+}
+
+.tabs li a:visited
+{
+	color:#6e6e6e;
+}
+
+.tabs li a:hover
+{
+	text-decoration:none;
+	color:#6e6e6e;
+	background:url(../tabselected.jpg) no-repeat;
+}
+
+.tabs li.sel
+{
+}
+
+.tabs li.sel a
+{
+	background:url(../tabselected.jpg) no-repeat;
+}
+
+.tabs li.sel a:hover
+{
+	text-decoration:none;
+}
+
+.tabsc
+{
+}
+
+/* Tables */
+table
+{
+	font:10px "Trebuchet MS";
+	table-layout:fixed;
+	border-collapse:collapse;
+	width:100%;
+}
+
+thead th
+{
+	height:28px;
+	line-height:28px;
+	vertical-align:middle;
+	text-align:center;
+	font-weight:bold;
+	color:#454545;
+	background-color:#ebebeb;
+	padding:0 3px 0 3px;
+	border-bottom:1px solid #cccccc;
+}
+
+tbody td
+{
+	height:28px;
+	line-height:28px;
+	padding:0 3px 0 3px;
+}
+
+tbody tr
+{
+	background-color:#fbfbfb;
+}
+
+tbody tr:hover
+{
+	background-color:#fefefe;
+}
+
+.bg-l
+{
+	background-color:#ffffff;
+	line-height:150%;
+}
+
+.bg-m
+{
+	background-color:#f9f9f9;
+	line-height:150%;
+}
+
+.bg-t
+{
+	clear:both;
+	background-color:#f0f0f0;
+}
+
+.bg-h
+{
+	background-color:#f3f3f3;
+	line-height:150%;
+}
+
+.bg-s
+{
+	background-color:#f0f0f0;
+	line-height:150%;
+}
+
+/* Forms */
+fieldset
+{
+	border:0;
+	clear:both;
+}
+
+.legend
+{
+	height:28px;
+	margin-bottom:1px;
+	font:bold 10px/28px "Trebuchet MS";
+	color:#454545;
+	padding-left:7px;
+	background-color:#ebebeb;
+	border-bottom:1px solid #cccccc;
+}
+
+.f-row
+{
+	clear:both;
+	background-color:#f3f3f3;
+	margin-bottom:1px;
+}
+
+label
+{
+	float:left;
+	width:15%;
+	height:30px;
+	line-height:30px;
+	padding:3px 3px 3px 5px;
+	font-size:10px;
+	color:#454545;
+	overflow:visible;
+	white-space:nowrap;
+}
+
+.f-field
+{
+	margin-left:15%;
+	/*height:30px;*/
+	line-height:30px;
+	padding:3px 3px 3px 5px;
+	background-color:#ffffff;
+}
+
+#sidearea label
+{
+	width:30%;
+}
+
+#sidearea .f-field
+{
+	margin-left:30%;
+}
+
+input
+{
+	padding:2px;
+	width:90%;
+	line-height:20px;
+	border:1px solid #dfdfdf;
+}
+
+input[type=text], input[type=password]
+{
+	height:20px;
+}
+
+input:focus
+{
+	border:2px solid #ff006C;
+}
+
+textarea
+{
+	padding:2px;
+	width:90%;
+	height:20px;
+	border:1px solid #dfdfdf;
+}
+
+select
+{
+	padding:2px;
+	width:90%;
+	border:1px solid #dfdfdf;
+}
+
+input.checkbox
+{
+	width:auto;
+	border:0;
+	background-color:transparent;
+}
+
+button
+{
+	height:27px;
+	color:#000000;
+	background-color:transparent;
+	font-weight:bold;
+	border:0;
+}
+
+button.wide
+{
+	width:100%;
+	height:27px;
+	background-color:#dddddd;
+	font-size:10px;
+	margin-bottom:1px;
+}
+
+.installbutton
+{
+	width:auto;
+	margin:6px;
+	padding:5px;
+	border:1px dotted #aaaaaa;
+	background:#cccccc;
+}
+
+.iform
+{
+	color:#803030;
+	font-weight:bold;
+}
+
+.current
+{
+	float:left;
+	width:25%;
+	color:#ff006C;
+	line-height:28px;
+	padding-left:3px;
+}
+
+.next
+{
+	margin-left:27%;
+	background:url(../currentnext.gif) left center no-repeat;
+	padding-left:19px;
+}
+
+/* Aligns */
+.il
+{
+	text-align:left;
+}
+
+.ic
+{
+	text-align:center;
+}
+
+.ir
+{
+	text-align:right;
+}
+
+/* Help */
+.helpp
+{
+	float:right;
+	width:20px;
+	height:20px;
+}
+
+/* Other tags */
+#modalbg			{ display:none; visibility:hidden; position: absolute; top: 0; left: 0; z-index: 500; background-color:#000000; -moz-opacity:.90; opacity:0.90; }
+#modal				{ display:none; visibility:hidden; position: absolute; z-index: 997; border:6px solid #ffffff; background-color:#ffffff; }
+#modaltitle			{ position:absolute; z-index: 999; left:0px; line-height:22px; }
+#modalclose			{ position:absolute; z-index: 999; right:0px; line-height:22px; }
+#modalcloseA 		{ text-decoration:none; }
+#modal_				{ margin-top:26px; padding:4px; background-color:#DDDDDD; }
+#list li				{ margin-left:10px; list-style:none; }
+
+.pagination			{ font-size:9px; float:right; }
+.pagination div span	{ float:left; margin:2px; }
+.pagination div a 		{ line-height:16px; height:16px; color:#999999; border:1px solid #A0A2A4; float:left; margin:2px; padding:0px 4px; }
+.pagination div.sel a	{ line-height:16px; height:16px; color:#999999; border:1px solid #FF006C; float:left; margin:2px; padding:0px 4px; }
+.pagination div a:hover { line-height:16px; height:16px; color:#999999; border:1px solid #FF006C; text-decoration:none; }

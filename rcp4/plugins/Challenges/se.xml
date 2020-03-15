@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation>
+	<plugin>
+		<challenges>challenges</challenges>
+		<nochallenges>inga challenges tillgängliga</nochallenges>
+		<name>Name</name>
+		<author>Upphovsman</author>
+		<env>Enviroment</env>
+		<gtime>Guld Tid</gtime>
+		<coppers>Coppers</coppers>
+		<choose>välj nästa challange(s)</choose>
+		<del>ta bort challenge(s)</del>
+		<shuffle>blanda challenge(s)</shuffle>
+		<sort>Sortera challenge(s)</sort>
+		<options>Alternativ</options>
+		<votings>Röster</votings>
+	</plugin>
+</translation>
