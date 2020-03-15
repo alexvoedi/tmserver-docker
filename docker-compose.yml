@@ -5,9 +5,15 @@ services:
     image: trackmania
     container_name: trackmania
     build: .
+    volumes:
+      - trackmania_db:/var/lib/mysql
     # network_mode: 'host'
     ports:
-      - 5000:5000
-      - 2350:2350
-      - 3450:3450
+      - 5000:5000/tcp
+      - 2350:2350/tcp
+      - 2350:2350/udp
+      - 3450:3450/tcp
       - 8080:80
+
+volumes:
+  trackmania_db:
