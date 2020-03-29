@@ -18,5 +18,6 @@ EXPOSE 80
 EXPOSE 5000
 EXPOSE 2350
 EXPOSE 3450
+EXPOSE 3306
 
 CMD ["/opt/tmserver/RunTrackmaniaServer.sh"]
