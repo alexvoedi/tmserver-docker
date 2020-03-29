@@ -11,6 +11,8 @@ COPY server /opt/tmserver
 COPY xaseco /opt/xaseco
 COPY rcp4 /var/www/html
 
+COPY mysqld.cnf /etc/mysql/mysql.conf.d/mysqld.cnf
+
 RUN chmod +x /opt/tmserver/RunTrackmaniaServer.sh
 RUN chmod +x /opt/tmserver/TrackmaniaServer
 
